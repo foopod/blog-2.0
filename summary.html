@@ -15,7 +15,7 @@ pagination:
       <a href="{{ post.url }}">
        <span class="post-date" style="display:inline;">{{ post.date | date_to_string }}</span> 
           {{ post.title }}
-          <span class="tagline"> - {{ post.tagline }}</span>
+          <span class="tagline"> {% if post.tagline%}-{% endif %} {{ post.tagline }}</span>
       </a>
     </h4>
   </div>
