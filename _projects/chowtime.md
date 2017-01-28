@@ -6,22 +6,4 @@ date: 2017-01-04
 link: https://chowtime.pw/
 ---
 
-Projects I can show off...
-
-
-intermittentfasting.pro
-chowtime.pw
-druidjono.com
-jira hashbrowns
-ggj
-locked away
-kiwijam16 - poet
-kiwijam15 - mr. scoopy
-
-
-demos:
-snowflake
-floral patterns
-proc-hill
-squares
-sunset
+That time that Jono thought the best way to stick to a diet was to make a app that would keep him on track.

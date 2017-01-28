@@ -178,6 +178,10 @@ a.sidebar-nav-item:focus {
     padding-bottom:30px;
 }
 
+.social a{
+    padding: 5px;
+}
+
 /*
  * Reverse layout
  *

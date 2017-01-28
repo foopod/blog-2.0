@@ -11,11 +11,17 @@
 
     <nav class="sidebar-nav">
 
-    <a class="sidebar-nav-item{% if page.url == '/index.html' %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-    <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="/about/">About</a>
     <a class="sidebar-nav-item{% if page.url == '/blog/index.html' or page.url == '/summary/index.html'%} active{% endif %}" href="/blog/">Blog</a>
+    
+    <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="/about/">About</a>
+    <a class="sidebar-nav-item{% if page.url == '/projects/index.html'%} active{% endif %}" href="/projects/">Projects</a>
         
     </nav>
+      <div class="social">
+     <a href="http://github.com/foopod"><i class="fa fa-github-alt" aria-hidden="true"></i></a>
+     <a href="http://twitter.com/foocodes"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+     <a href="mailto:jonathonshields@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      </div>
 <!--{{page.url}}-->
 <!--    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>-->
   </div>
@@ -31,13 +37,12 @@
 
             //Loop 100 times
             for(var i = 0; i<10; i++){
-                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#EEE', Math.random()*100);
-                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#FEF', Math.random()*100);
-                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#EFE', Math.random()*100);
-                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#FFE', Math.random()*100);
-                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#EFF', Math.random()*100);
-                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#EFE', Math.random()*100);
-                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#FEE', Math.random()*100);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#FEF', Math.random()*100+50);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#EFE', Math.random()*100+50);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#FFE', Math.random()*100+50);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#EFF', Math.random()*100+50);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#EFE', Math.random()*100+50);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#FEE', Math.random()*100+50);
             }
         }
 

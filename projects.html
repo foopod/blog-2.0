@@ -1,0 +1,22 @@
+---
+layout: default
+title: Projects
+pagination: 
+  enabled: true
+  per_page: 1000
+---
+
+<div class="posts">
+  {% for project in site.projects reversed %}
+  <div class="post" style="margin-bottom:2em;">
+    <h4 class="post-title">
+      <a href="{{ project.link }}">
+        
+          {{ project.title }}
+      </a>
+        <span class="post-date" style="display:inline;float:right;">{{ project.date | date_to_string }}</span>
+    </h4>
+      {{project.content}}
+  </div>
+  {% endfor %}
+</div>
