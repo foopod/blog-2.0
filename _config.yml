@@ -7,19 +7,26 @@ permalink:        pretty
 
 # Setup
 title:            Jono
-tagline:          'kind of a druid'
-description:      'kind of a druid'
+tagline:          'like a druid, but a <br>little more modern'
+description:      'Jono Shields is a web developer, game programmer, coffee addict...'
 url:              https://jono.tech
 baseurl:          /
 
+twitter:
+    username: foocodes
+
 author:
   name:           'Jono Shields'
-  url:            https://twitter.com/foocodes
+  twitter:        foocodes    
+
+logo : /public/icon.png
+
+
   
 collections:
     - projects
   
-gems: ['jekyll-paginate-v2']
+gems: ['jekyll-paginate-v2', 'jekyll-seo-tag']
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
