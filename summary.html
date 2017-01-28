@@ -11,10 +11,10 @@ pagination:
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h4 class="post-title">
+    <h4 class="post-title"  style="margin-bottom:20px;">
       <a href="{{ post.url }}">
        <span class="post-date" style="display:inline;">{{ post.date | date_to_string }}</span> 
-          {{ post.title }}
+          <span style="text-decoration:underline;">{{ post.title }}</span>
           <span class="tagline"> {% if post.tagline%}-{% endif %} {{ post.tagline }}</span>
       </a>
     </h4>
