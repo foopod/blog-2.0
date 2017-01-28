@@ -3,7 +3,7 @@ layout: page
 title: Chowtime
 tagline: An App to track your eating habits
 date: 2017-01-04
-link: http://chowtime.pw/
+link: https:chowtime.pw/
 ---
 
 Projects I can show off...
