@@ -1,0 +1,68 @@
+<div id="containerDiv" class="sidebar">
+  <div class="container sidebar-container">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+
+    <a class="sidebar-nav-item{% if page.url == '/index.html' %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+    <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="/about/">About</a>
+    <a class="sidebar-nav-item{% if page.url == '/blog/index.html' or page.url == '/summary/index.html'%} active{% endif %}" href="/blog/">Blog</a>
+        
+    </nav>
+<!--{{page.url}}-->
+<!--    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>-->
+  </div>
+</div>
+<div class="sidebar stickyCanvas" style="padding:0px;top:0;z-index:-5;">
+    <canvas id="canvasWall"></canvas>
+</div>
+<script>
+        var ctx;
+        var canvas = document.getElementById('canvasWall');
+
+        function run(){
+
+            //Loop 100 times
+            for(var i = 0; i<10; i++){
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#EEE', Math.random()*100);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#FEF', Math.random()*100);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#EFE', Math.random()*100);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#FFE', Math.random()*100);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#EFF', Math.random()*100);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#EFE', Math.random()*100);
+                drawSquare(Math.random()*canvas.width-25, Math.random()*canvas.height-25, '#FEE', Math.random()*100);
+            }
+        }
+
+        function fitToContainer(canvas){
+          // Make it visually fill the positioned parent
+          canvas.style.width ='100%';
+          canvas.style.height='100%';
+          // ...then set the internal size to match
+          canvas.width  = containerDiv.clientWidth;
+          canvas.height = containerDiv.clientHeight;
+        }
+
+        function init(){
+            ctx = canvas.getContext('2d');
+            fitToContainer(canvas);
+            window.addEventListener('resize', function(){
+                fitToContainer(canvas);
+            }, true);
+            setInterval(run, 33);
+        }
+
+        function drawSquare(x,y,color,size){
+            ctx.fillStyle =color;
+            ctx.fillRect(x,y,size,size);    
+        }
+        
+        init();
+    </script>
