@@ -13,8 +13,4 @@ I spend my days making small prototypes and junk, volunteering at my local codec
 
 Too bad.
 
-**Want to try anyway or just want to 'chat' ?**
-
-Email <a href="mailto:jonathonshields@gmail.com">Jono</a>.
-
-<span style="font-size:11px">Donate Bitcoin : <a href="bitcoin:1CXkgx881fC9EVkA4pyW2dqqZc9ETZSMRE?label=Jono%20says%20thanks!">1CXkgx881fC9EVkA4pyW2dqqZc9ETZSMRE</a></span>
+<span style="font-size:11px">Bitcoin : <a href="bitcoin:1CXkgx881fC9EVkA4pyW2dqqZc9ETZSMRE?label=Jono%20says%20thanks!">1CXkgx881fC9EVkA4pyW2dqqZc9ETZSMRE</a></span>
