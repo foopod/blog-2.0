@@ -66,7 +66,11 @@
 
         function drawSquare(x,y,color,size){
             ctx.fillStyle =color;
-            ctx.fillRect((Math.random()*canvas.width/50) * 50,0,3,canvas.height);    
+            if(canvas.height > canvas.width){
+                ctx.fillRect((Math.random()*canvas.width) ,0,3,canvas.height);   
+            } else {
+                ctx.fillRect(0,(Math.random()*canvas.width),canvas.width,3); 
+            }
         }
         
         init();
