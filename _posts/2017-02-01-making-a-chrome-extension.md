@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making a Chrome Extension
-date: 2017-01-29
+date: 2017-02-01
 tags: []
 tagline: Adds rainbows to your browser
 description: Creating a chrome extension that inject javascript into the browser
