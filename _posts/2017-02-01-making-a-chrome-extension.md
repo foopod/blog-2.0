@@ -21,7 +21,7 @@ So I started off making a Bookmarklet (a browser bookmark that contains javascri
   document.body.appendChild(canvas);
   
   ...
-  //Note : This js needs to be url encoded to be run as a bookmarklet.
+  // Note : This needs to be url encoded to be run as a bookmarklet.
   // Full source : 
   // https://github.com/foopod/rainbows-for-all/blob/master/rainbow.js
   
