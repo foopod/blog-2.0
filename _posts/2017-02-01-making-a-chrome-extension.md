@@ -32,7 +32,7 @@ Just drag and drop this great emoji <a href='javascript:(function()%7Bfunction r
 
 So that worked really nicely and I was really happy with it, but I want rainbows on every page and I don't want to have to click a bookmark every time.
 
-### Wrapping in a Chrome Extenion
+### Wrapping it in a Chrome Extenion
 
 Enter [Chrome Extensions](https://developer.chrome.com/extensions/devguide).
 
