@@ -9,7 +9,7 @@ description: Creating a chrome extension that inject javascript into the browser
 
 ### First Steps
 
-I had this idea when I was making the sidebar for my blog, wouldn't it be cool if every website was this joyous?
+I had this idea when I was making a sidebar for my blog, it was like if a waterfall was rainbows, wouldn't it be cool if every website was this joyous?
 
 So I started off making a Bookmarklet (a browser bookmark that contains javascript). The idea is pretty simple and just adds a pretty animated canvas to the DOM.
 
