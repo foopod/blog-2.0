@@ -60,7 +60,7 @@ First off you have to make a `manifest.json` to declare information about your a
 {
   "name": "Rainbows For All",
   "version": "1.0",
-  "description": "Rainbows For All!",
+  "description": "Rainbowify your browsing experience!",
   "permissions": ["<all_urls>"],
   "content_scripts": [{
       "js": ["addContent.js"],
