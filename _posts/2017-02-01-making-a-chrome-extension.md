@@ -54,7 +54,7 @@ Looks easy right? That is what I thought too!
 
 And for something simple like this it was pretty easy. But when I came to add a toggle button to my extension all I found was pain and hardship.
 
-First off I had to make a `manifest.json` to declare information about your app. This has things like icons, permissions and the scripts that will be executed.
+First off you have to make a `manifest.json` to declare information about your app. This has things like icons, permissions and the scripts that will be executed.
 
 ```
 {
