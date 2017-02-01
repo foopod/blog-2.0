@@ -13,32 +13,17 @@ I had this idea when I was making the sidebar for my blog, wouldn't it be cool i
 
 So I started off making a Bookmarklet (a browser bookmark that contains javascript). The idea is pretty simple and just adds a pretty animated canvas to the DOM.
 
+#### rainbow.js
 ```
 (function(){
-  //Find the body and add the canvas element
   var body=document.getElementsByTagName("body");
   var canvas=document.createElement("canvas");
   document.body.appendChild(canvas);
   
-  function init(){
-    //Set up the canvas
-    canvas.id="rainbowApp";
-    canvas.style.position="fixed";
-    canvas.style.padding="0";
-    canvas.style.top="0";
-    canvas.style.left="0";
-    canvas.style.zIndex="-5";
-    window.addEventListener("resize",function(){resizeCanvas();},!0);
-  }
+  ...
+  //Note :  This js needs to be url encoded to be run as a bookmarklet.
+  // Full source : https://github.com/foopod/rainbows-for-all/blob/master/rainbow.js
   
-  /* Function to resize the canvas to the window */
-  function resizeCanvas(a){
-    canvas.width=window.innerWidth;
-    canvas.height=window.innerHeight;
-  };
-  
-  init();
- 
 })();
 ```
 
@@ -55,6 +40,8 @@ Looks easy right? That is what I thought too!
 And for something simple like this it was pretty easy. But when I came to add a toggle button to my extension all I found was pain and hardship.
 
 First off you have to make a `manifest.json` to declare information about your app. This has things like icons, permissions and the scripts that will be executed.
+
+#### manifest.json
 
 ```
 {
