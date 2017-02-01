@@ -84,9 +84,9 @@ First off you have to make a `manifest.json` to declare information about your a
 
 Above you will notice two scripts, `addContent.js` and `rainbow.js`. The `content_scripts` run as part of the chrome extension itself, whereas `web_accessible_resources` are files that your chrome extension can access.
 
-`rainbow.js` is just my bookmarklet script from above. `addContent.js` is the chrome extension, all it does is add my other script to the DOM in `<script>` tags.
+`rainbow.js` is just my bookmarklet script from above. `addContent.js` is the chrome extension itself, all it does is add my rainbow script to the DOM in `<script>` tags.
 
-`addContent.js`
+#### addContent.js
 
 ```
 var rainbowInstallService = document.createElement('script');
@@ -101,7 +101,7 @@ rainbowInstallService.onload = function() {
 
 So aside from all the images my extension is just these three files (`manifest.json`, `addContent.js` and `rainbow.js`).
 
-I would have liked to have built it in a way that allowed the user to turn it on and off. But the Chrome API is quite confusing (read:was late at night and was by no means thorough). Also not that many stack overflow posts :(
+It would have been cool to have built it in a way that allowed the user to turn it on and off. But the Chrome API is quite confusing (read : it was late at night). Also not that many stack overflow posts :(
 
 Source code is [here](https://github.com/foopod/rainbows-for-all/).
 
