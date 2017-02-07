@@ -32,7 +32,9 @@ It stuck with me ever since. It is hard for me to find motivation, sometimes eve
 
 <img src="/public/images/fake-it.png"/>
 
-But remember to look after yourself. If you are going all out when you are passionate and when you aren't it doesn't give you much downtime.
+Honestly just try it. I was cynical at first too. But it works.
+
+Just don't make the same mistake I did, look after yourself. I was going all out when I felt inspired and when I didn't, which is pretty much all the time in the day.
 
 Sweet.
 
