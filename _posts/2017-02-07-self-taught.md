@@ -48,7 +48,7 @@ So what is that?
 
 ### How to learn how to learn?
 
-I volunteer at codeclub every week with 10-12 year olds. I love it more than anything else I do because I get to share what I am passionate about with others. I want to help them get to the stage where they don't need me anymore. So last year when they asked me for help I started replying with "Did you Google it?" and encouraging them to look for their own solutions first.
+I volunteer at [codeclub](https://www.codeclub.nz/) every week with 10-12 year olds. I love it more than anything else I do because I get to share what I am passionate about with others. I want to help them get to the stage where they don't need me anymore. So last year when they asked me for help I started replying with "Did you Google it?" and encouraging them to look for their own solutions first.
 
 It is tough holding back the answers, especially when I am so keen to share them. But I want to foster initiative and self learning.
 
