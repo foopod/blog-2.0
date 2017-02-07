@@ -15,7 +15,7 @@ pagination:
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h4 class="post-title"  style="margin-bottom:20px;">
+    <h4 class="post-title summary-post"  style="margin-bottom:20px;">
       <a href="{{ post.url }}">
        <span class="post-date" style="display:inline;">{{ post.date | date_to_string }}</span> 
           <span style="text-decoration:underline;">{{ post.title }}</span>
