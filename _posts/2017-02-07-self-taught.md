@@ -48,16 +48,18 @@ So what is that?
 
 ### How to learn how to learn?
 
-I volunteer at codeclub every week with 10-12 year olds. I love it more than anything else I do because I get to share what I am passionate about with others. My aim is to help them get to the stage where they don't need me anymore. So last year when they asked me for help I started replying "Did you Google it?" and encouraging them to look for their own solutions first.
+I volunteer at codeclub every week with 10-12 year olds. I love it more than anything else I do because I get to share what I am passionate about with others. I want to help them get to the stage where they don't need me anymore. So last year when they asked me for help I started replying with "Did you Google it?" and encouraging them to look for their own solutions first.
 
-It is tough holding back on the answers, especially when I am so keen to share them. But I want to foster initiative and self learning.
+It is tough holding back the answers, especially when I am so keen to share them. But I want to foster initiative and self learning.
 
-So this is where I am right now. Most still don't do a google search before asking for help. I don't want to push them too far, I am worried they will stop enjoying it if they have to work to hard at it.
+So this is where I am right now. Most still don't do a google search before asking for help. I am suspicious that it's because they haven't done it before and are not confident in their own ability to find the solution. I worry that it's a fear of failure. 
+
+But I don't want to push them too far, I am worried they will stop enjoying it if they have to work too hard at it.
 
 It is almost like we need an codeclub tutorial that forces kids to google to find the answers.
 
 HAHHAHAHAHAH  LAUGHS MANIACALLY!!! AHAAHA
 
-Okay I might actually do this. Write an exercise or something.
+Okay I might actually do this. Write an exercise or something. Also talk about your downfalls more Jono, mistakes are a key part of learning and I make a hell of a lot of them.
 
 Toodles.
