@@ -15,7 +15,7 @@ I make a bunch of things.
 
 My [Github report card](https://githubreportcard.reflect.io/) says that last year I made 372 commits across 28 repos in 5 languages. People ask me why I do it, spend 40 hours coding at work then go home and do more. It's because I love it. Sure I could watch TV, play video games, hang out with friends or even go outside. It's not like I don't do these things though, but maybe less than others.
 
-So passion is pretty key for me. It means that I have the motivation to go and do this already. But sometimes you want to do something, but for some reason the motivation isn't always there.
+So passion is pretty key for me. It gives me the motivation I need to do this. But sometimes even when I want to do something the motivation isn't always there.
 
 A long time ago I worked in retail.
 
