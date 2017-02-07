@@ -17,7 +17,6 @@ Where are you going with this Jono?
 
 There isn't really any more to say. But when I talk about self learning in a bit this is key. Having motivation to do something is key. I once worked in retail and one year as we started getting ready for the dreaded christmas period my manager told us this quote...
 
->Enthusiasm is one of the most powerful engines of success. When you do a thing, do it with all your might. Put your whole soul into it. Stamp it with your personality. Be active, be energetic and faithful and you will accomplish your goal. Nothing great was ever achieved without enthusiasm.
->Ralph Waldo Emerson
+>Enthusiasm is one of the most powerful engines of success. When you do a thing, do it with all your might. Put your whole soul into it. Stamp it with your personality. Be active, be energetic and faithful and you will accomplish your goal. Nothing great was ever achieved without enthusiasm. - Ralph Waldo Emerson
 
-<img scr="/public/images/enthusiasm.png"/>
+<img src="/public/images/enthusiasm.png"/>
