@@ -25,7 +25,7 @@ In my first year as we prepared for holiday period my manager gave this super in
 
 >Enthusiasm is one of the most powerful engines of success. When you do a thing, do it with all your might. Put your whole soul into it. Stamp it with your personality. Be active, be energetic and faithful and you will accomplish your goal. Nothing great was ever achieved without enthusiasm. - Ralph Waldo Emerson
 
-This photo is from the whiteboard in our lunch room from 6 years ago.
+This was the whiteboard in our lunch room 6 years ago.
 <img src="/public/images/enthusiasm.png"/>
 
 It stuck with me ever since. It is hard for me to find motivation, sometimes even with things that I love. But going head first at 110% is something I find easier to do. It's hard to be passionate about everything, especially the more tedious parts of a project. But you know what they say? 
