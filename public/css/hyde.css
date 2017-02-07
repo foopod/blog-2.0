@@ -185,6 +185,7 @@ a.sidebar-nav-item:focus {
 .disqus-comment-count a{
   display: block;
   color: cornflowerblue; 
+  float: right;
 }
 
 /*
