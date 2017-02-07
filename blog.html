@@ -33,7 +33,7 @@ pagination:
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.content }}
-    <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+    <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.id}}"></a>
   </div>
   {% endfor %}
 </div>
