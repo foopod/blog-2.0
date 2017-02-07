@@ -13,7 +13,7 @@ So.
 
 I make a bunch of things.
 
-My [Github report card](https://githubreportcard.reflect.io/) says that last year I made 372 commits across 28 repos in 5 languages. People ask me why I do it, spend 40 hours coding at work then go home and do more. It's because I love it. Sure I could go home and watch TV, play video games or hang out with friends. I do these things too, probably less than others though (I even go outside sometimes too).
+My [Github report card](https://githubreportcard.reflect.io/) says that last year I made 372 commits across 28 repos in 5 languages. People ask me why I do it, spend 40 hours coding at work then go home and do more. It's because I love it. Sure I could watch TV, play video games, hang out with friends or even go outside. It's not like I don't do these things though, but maybe less than others.
 
 So passion is pretty key for me. It means that I have the motivation to go and do this already. But sometimes you want to do something, but for some reason the motivation isn't always there.
 
