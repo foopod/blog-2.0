@@ -182,6 +182,11 @@ a.sidebar-nav-item:focus {
     padding: 5px;
 }
 
+.disqus-comment-count a{
+  display: block;
+  color: cornflowerblue; 
+}
+
 /*
  * Reverse layout
  *
