@@ -54,7 +54,7 @@ It is tough holding back the answers, especially when I am so keen to share them
 
 So this is where I am right now. Most still don't do a google search before asking for help. I am suspicious that it's because they haven't done it before and are not confident in their own ability to find the solution. I worry that it's a fear of failure. 
 
-But I don't want to push them too far, I am worried they will stop enjoying it if they have to work too hard at it.
+But I don't want to push them too far, I don't want them to stop enjoying it.
 
 It is almost like we need an codeclub tutorial that forces kids to google to find the answers.
 
