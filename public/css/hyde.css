@@ -182,7 +182,7 @@ a.sidebar-nav-item:focus {
     padding: 5px;
 }
 
-.disqus-comment-count a{
+.disqus-comment-count{
   display: block;
   color: cornflowerblue; 
   float: right;
