@@ -21,8 +21,8 @@ pagination:
           <span style="text-decoration:underline;">{{ post.title }}</span>
           <span class="tagline"> {% if post.tagline%}-{% endif %} {{ post.tagline }}</span>
       </a>
-      <a class="disqus-comment-count" href="{{ post.url }}index.html/#disqus_thread" data-disqus-identifier="{{post.id}}"></a>
     </h4>
+    <a class="disqus-comment-count" href="{{ post.url }}index.html/#disqus_thread" data-disqus-identifier="{{post.id}}"></a>
   </div>
   {% endfor %}
 </div>
