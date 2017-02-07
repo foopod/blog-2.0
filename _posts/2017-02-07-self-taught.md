@@ -7,7 +7,7 @@ tagline: The art of self learning
 description: Exploring the art of self learning
 ---
 
-So let's preface this with some facts, I make a bunch of things. My [Github report card](https://githubreportcard.reflect.io/) says that last year I made 372 commits across 28 GitHub repos in 5 languages. People ask me why I do it, spend 40 hours at work then go home and do more. It's because I love it, sure I could go home and watch TV, play video games or hang out with friends, and I do all of these things, just maybe less than other people.
+So let's preface this with some facts, I make a bunch of things. My [Github report card](https://githubreportcard.reflect.io/) says that last year I made 372 commits across 28 repos in 5 languages. People ask me why I do it, spend 40 hours coding at work then go home and do more. It's because I love it. Sure I could go home and watch TV, play video games or hang out with friends, and I do these things (maybe less than other people).
 
 ##### Where are you going with this Jono?
 
@@ -22,16 +22,16 @@ This has stuck with me ever since. It is hard for me to find motivation, sometim
 
 I have two other learnings from this though.
 
-Firstly just because you are enthusiastic it doesn't mean you will succeed, if there are external forces at work there is always a chance of failure, even if you do everything the best you could have. Secondly it helps to have people around, if no one can see your enthusiasm it doesn't count for much. But if you are in a group, then people quickly notice it and the effect it can have on others is immense. Thirdly (yolo) disclaimer for burn out, the most common form of burn out is self inflicted, look after yourself.
+Firstly even if you are enthusiastic it doesn't mean you will succeed. If there are external forces at work there is always a chance of failure, even if you do everything right. Secondly it helps to have people around, if no one can see your enthusiasm it doesn't count for much. But if you are in a group, then people notice it and the effect it can have on others is immense. Thirdly (yolo) the most common form of burn out is self inflicted, look after yourself.
 
-##### This is the bit where I clearly got lost
+##### This is the bit where I got lost
 
-Right now I am certain that if something has enough documentation on the internet then I can learn it or at the very least I can try. But I am not really sure how did I got to this point.
+Right now I am certain that if something has enough documentation then I can learn it or at the very least I can try. But I am not sure how did I got to this point.
 
 ##### How to learn how to learn?
 
-I volunteer at codeclub every week with 10-12 year olds. I love it more than anything else I do, I get to share what I am passionate about with others and help the next generation get their start. I want to help them get to the stage where they don't really need me anymore by the time they finish the codeclub year. So last year when they askied me for help I started replying "Did you Google it?" and encouraging them to look for their own solutions first.
+I volunteer at codeclub every week with 10-12 year olds. I love it more than anything else I do because I get to share what I am passionate about with others. I want to help them get to the stage where they don't need me anymore by the time they finish the codeclub year. So last year when they askied me for help I started replying "Did you Google it?" and encouraging them to look for their own solutions first.
 
-It is really tough holding back on the answers, especially when I am so keen to share. But I want to foster initiative and learning.
+It is tough holding back on the answers, especially when I am so keen to share. But I want to foster initiative and learning.
 
-So this is where I am right now. Unfortunately I don't know how to proceed, most of them still don't do a google search before asking for help. I don't want to push them too far, I am worried they will stop enjoying it if they have to work to hard at it.
+So this is where I am right now. Unfortunately I don't know how to proceed, most still don't do a google search before asking for help. I don't want to push them too far, I am worried they will stop enjoying it if they have to work to hard at it.
