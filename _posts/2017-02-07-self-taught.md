@@ -42,7 +42,7 @@ Motivation. Tick. Enthusiasm. Tick.
 
 ### This is the bit where I got lost
 
-Right now I am certain that if something has enough documentation then I can learn it or at the very least I can try. But I am not sure how did I got to this point. It is like all of a sudden some time ago a confidence switch turned on in my brain. I know I can solve problems and find answers.
+Right now I am certain that if something has enough documentation then I can learn it or at least give it a decent go. But I am not sure how I got to this point. It is like all of a sudden some time ago a confidence switch turned on in my brain. I know I can solve problems and find answers.
 
 So what is that?
 
