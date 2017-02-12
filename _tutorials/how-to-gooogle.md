@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Google
-date: 2017-02-13
+date: 2017-02-12
 tags: []
 tagline: What google can do for you
 description: Why solve a problem someone else has solved? Let Google do it and save your energy for other things.
