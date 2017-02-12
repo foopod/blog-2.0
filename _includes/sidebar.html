@@ -10,11 +10,11 @@
     </div>
 
     <nav class="sidebar-nav">
-
+        <a class="sidebar-nav-item{% if page.url == '/tutorials/index.html'%} active{% endif %}" href="/tutorials/">Tutorials</a>
+        <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="/about/">About</a>
     <a class="sidebar-nav-item{% if page.url == '/blog/index.html' or page.url == '/summary/index.html'%} active{% endif %}" href="/blog/">Blog</a>
     
-    <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="/about/">About</a>
-    <a class="sidebar-nav-item{% if page.url == '/projects/index.html'%} active{% endif %}" href="/projects/">Projects</a>
+    
         
     </nav>
       <div class="social">

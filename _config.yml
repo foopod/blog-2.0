@@ -24,7 +24,7 @@ logo : /public/icon.png
 
   
 collections:
-    - projects
+    - tutorials
   
 gems: ['jekyll-paginate-v2', 'jekyll-seo-tag']
 

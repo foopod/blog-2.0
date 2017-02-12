@@ -1,0 +1,21 @@
+---
+layout: default
+title: Tutorials
+description: An index of projects past, most unmaintained and forgotten as their pages rot, links expire and css deprecates...
+pagination: 
+  enabled: true
+  per_page: 1000
+---
+
+<div class="posts">
+  {% for tutorial in site.tutorials reversed %}
+  <div class="post" style="margin-bottom:2em;">
+    <h1 class="post-title">
+        
+          {{ tutorial.title }}
+        
+    </h1>
+      {{tutorial.content}}
+  </div>
+  {% endfor %}
+</div>
