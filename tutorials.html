@@ -13,13 +13,17 @@ pagination:
 
 <div class="posts">
   {% for tutorial in site.tutorials reversed %}
-  <div class="post" style="margin-bottom:2em;">
-    <h1 class="post-title">
+  <div class="post tutorial-summary">
+    <div class="tutorial-image"><img class="icon" src="/public/images/{{ tutorial.icon }}"/></div>
+    <div class="tutorial-description">
+    <a href="{{tutorial.url}}"><h1 class="post-title">
         
           {{ tutorial.title }}
         
-    </h1>
-      {{tutorial.content}}
+        </h1></a>
+        <span class="post-date">{{ tutorial.date | date_to_string }}</span>
+    <p class="post-description">{{ tutorial.description }}</p>
+    </div>
   </div>
   {% endfor %}
 </div>

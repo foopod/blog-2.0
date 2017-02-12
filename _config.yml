@@ -21,10 +21,9 @@ author:
 
 logo : /public/icon.png
 
-
-  
 collections:
-    - tutorials
+  tutorials:
+    output: true
   
 gems: ['jekyll-paginate-v2', 'jekyll-seo-tag', 'jekyll-sitemap']
 

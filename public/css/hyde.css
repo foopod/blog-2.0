@@ -299,6 +299,23 @@ a.sidebar-nav-item:focus {
 
 
 /* JS Tutorial */
+.icon{
+    width: 150px;
+    border-radius: 50%;
+    display: inline;
+}
+
+.tutorial-summary{
+    display: flex;
+}
+
+.tutorial-image{
+    flex-shrink: 0;
+}
+
+.tutorial-description{
+    padding-left: 20px;
+}
 
 input {
     padding: 8px 12px;

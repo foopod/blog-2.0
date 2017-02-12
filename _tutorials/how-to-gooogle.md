@@ -1,10 +1,11 @@
 ---
 layout: post
 title: How To Google
-date: 2017-02-09
+date: 2017-02-13
 tags: []
 tagline: What google can do for you
-description: Jono's tips on googling and the such
+description: Why solve a problem someone else has solved? Let Google do it and save your energy for other things.
+icon: google.png
 ---
 
 ## What is Google?
