@@ -26,7 +26,7 @@ logo : /public/icon.png
 collections:
     - tutorials
   
-gems: ['jekyll-paginate-v2', 'jekyll-seo-tag']
+gems: ['jekyll-paginate-v2', 'jekyll-seo-tag', 'jekyll-sitemap']
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
