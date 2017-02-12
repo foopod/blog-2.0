@@ -164,16 +164,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-.stickyCanvas{
-    position:absolute;
-}
-
-@media (min-width: 48em) {
-  .stickyCanvas {
-    position:fixed;
-  }
-}
-
 .tagline{
     font-weight: normal;    
 }
@@ -294,9 +284,15 @@ a.sidebar-nav-item:focus {
 
 /* JS Tutorial */
 .icon{
-    width: 150px;
+    width: 50px;
     border-radius: 50%;
     display: inline;
+}
+
+@media (min-width: 48em) {
+    .icon{
+        width: 150px;
+    }
 }
 
 .tutorial-summary{
