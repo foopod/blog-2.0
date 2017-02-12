@@ -178,12 +178,6 @@ a.sidebar-nav-item:focus {
     font-weight: normal;    
 }
 
-.topCenter{
-    display:block; 
-    text-align:center;
-    padding-bottom:30px;
-}
-
 .social a{
     padding: 5px;
 }
