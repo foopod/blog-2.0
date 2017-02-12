@@ -44,7 +44,7 @@ function jsTestOne(){
     if(document.getElementById("jsTestOneError")){
         document.getElementById("jsTestOneError").remove();
     }
-    var input = document.getElementById("jsTestOne").value;
+    var input = document.getElementById("jsTestOne").value.toLowerCase();
     if(input.includes("alert")){
         alert("");
         document.getElementById("jsTestOneContainer").innerHTML = '<p class="correct">Correct!</p>'
@@ -73,7 +73,7 @@ function jsTestTwo(){
     if(document.getElementById("jsTestTwoError")){
         document.getElementById("jsTestTwoError").remove();
     }
-    var input = document.getElementById("jsTestTwo").value;
+    var input = document.getElementById("jsTestTwo").value.toLowerCase();
     if(input.includes("margin") || input.includes("padding") || input.includes("text-align") || input.includes("float") || input.includes("right") || input.includes("position") ){
         if(!attempts.includes(input)){
             if(attempts.length == 0){
@@ -119,7 +119,7 @@ function jsTestThree(){
     if(document.getElementById("jsTestThreeError")){
         document.getElementById("jsTestThreeError").remove();
     }
-    var input = document.getElementById("jsTestThree").value;
+    var input = document.getElementById("jsTestThree").value.toLowerCase();
     if(input.includes("splice") || input.includes("shift")){
         document.getElementById("jsTestThreeTarget").innerHTML = "[❤️️, ☂️, ⚽, ☺️️, ✌️️]";
         document.getElementById("jsTestThreeContainer").innerHTML = '<p class="correct">Correct!</p>';
@@ -153,7 +153,7 @@ function jsTestFour(){
     if(document.getElementById("jsTestFourError")){
         document.getElementById("jsTestFourError").remove();
     }
-    var input = document.getElementById("jsTestFour").value;
+    var input = document.getElementById("jsTestFour").value.toLowerCase();
     if(input.includes("dianna cowern") || input.includes("dianna")){
         document.getElementById("jsTestFourContainer").innerHTML = '<p class="correct">Correct!</p><p >Notice how the quotation marks helped narrow down the search?</p>';
     } else {
