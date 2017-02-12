@@ -133,7 +133,7 @@ function jsTestThree(){
 
 ## Don't search for questions, search for answers
 
-Google is starting to get better at matching questions to answers. But it excellent at finding answers on their own.
+Google is starting to get better at matching questions to answers. But it's excellent at finding answers on their own.
 
 Think about how the answer would be phrased, so instead of searching for `What is the land mass of Australia?`, try looking for the answer `Australian land mass`. Not only is it quicker to type in, but you will find it even if no one has asked the question.
 
