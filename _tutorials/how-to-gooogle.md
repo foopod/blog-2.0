@@ -5,7 +5,7 @@ date: 2017-02-12
 tags: []
 tagline: What google can do for you
 description: Why solve a problem someone else has solved? Let Google do it and save your energy for other things.
-icon: google.png
+image: /public/images/google.png
 ---
 
 ## What is Google?

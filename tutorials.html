@@ -16,7 +16,7 @@ pagination:
 <div class="posts">
   {% for tutorial in site.tutorials reversed %}
   <div class="post tutorial-summary">
-      <div class="tutorial-image"><a href="{{tutorial.url}}"><img class="icon" src="/public/images/{{ tutorial.icon }}"/></a></div>
+      <div class="tutorial-image"><a href="{{tutorial.url}}"><img class="icon" src="{{ tutorial.image }}"/></a></div>
     <div class="tutorial-description">
     <a href="{{tutorial.url}}"><h1 class="post-title">
           {{ tutorial.title }}
