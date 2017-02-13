@@ -181,3 +181,15 @@ You can also use **-** to remove something from search results.
 
 >eg. `jaguar speed -car`
 
+## Google in action!
+
+So now that you know how to use Google, put it to work while you are coding.
+
+It works for anything and everything. Not just scratch or HTML, but any question you have about anything.
+
+Want to see how I use Google?
+
+<a href="https://docs.google.com/document/d/1L6JDnchdb53lg15haj1gbhHnNLlATVOzRVO3AjgQ_eo/edit?usp=sharing" target="_blank">
+This</a> is a log of how I google when I am programming. Yep. Every few minutes I find something I haven't memorized and need to google it.
+
+I hope you enjoyed this 'How to Google' tutorial. If you have any questions or requests on things for next time then leave a comment for me down below.
