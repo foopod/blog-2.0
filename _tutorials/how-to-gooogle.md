@@ -95,7 +95,7 @@ function jsTestTwo(){
 
 Google gives you some handy sites, it's up to you to find the info you need.
 
-Each website shows it's data in it's own way. Here are some common sites and tips to find what you are looking for.
+Each website shows its data in its own way. Here are some common sites and tips to find what you are looking for.
 
 **Stack Overflow** is one of your most powerful allies. It is kind of like yahoo answers but for coding. Just skim the question to see if it us like your problem and read the answers that have the **most votes**.
 
@@ -134,7 +134,7 @@ function jsTestThree(){
 
 Google is starting to get better at matching questions to answers. But it's excellent at finding answers on their own.
 
-Try searching for the answer on it's own, think about how it would be phrased.
+Try searching for the answer on its own, think about how it would be phrased.
 
 So instead of searching for `What is the land mass of Australia?`, try looking for the answer `Australia land mass`. Not only is it quicker to type in, but you will find it even if no one has asked the question.
 
