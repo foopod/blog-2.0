@@ -10,11 +10,11 @@ image: /public/images/google.png
 
 ## What is Google?
 
-Google is that guy that always knows the answer and puts up their hand 0.46s after the teach asked the question.
+Google is that kid that always knows the answer and puts up their hand 0.46s after the teach asks a question.
 
 ## How did Google get so smart?
 
-Google reads hundreds of thousands of pages every day. And tries to organise everything it has learned so it can always find it again easily.
+Google reads hundreds of thousands of pages every day. And tries to organise everything so it can always find it again easily.
 
 ## How does it work?
 
@@ -22,7 +22,7 @@ Try searching for `241543903` on Google. What comes up in the images section?
 
 Yep. Pictures of people with their heads in freezers. But why?
 
-Because the internet is a weird and wonderful place. Google seen pictures like this and the number 241543903 together all over the internet.
+Because the internet is a weird and wonderful place. Google has seen pictures like this and the number 241543903 together all over the internet.
 
 <p class="message" style="overflow:hidden">
   FACT :  In 2009 David Horvitz encouraged people to take a picture of their heads in a freezer and upload it with the tag “241543903”.
