@@ -20,10 +20,28 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
     <link href="https://fonts.googleapis.com/css?family=Work+Sans|Quattrocento" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
-
-  <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/icon.png">
-                                 <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.png">
+    <script>
+    var currentIcon = false;
+        function swapIcon(){
+            var link = document.createElement('link'),
+                 oldLink = document.getElementById('dynamic-favicon');
+             link.id = 'dynamic-favicon';
+             link.rel = 'shortcut icon';
+            link.type = 'image/ico';
+            if(currentIcon){
+                link.href = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAVFBMVEUAAAABCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA+27f+3AAAAG3RSTlMAAQMFBgoZLThNTlJwgI6Umqqrr7S1t77I+f3aTl/wAAAAX0lEQVQ4y+WStxHAMAwD4ZyDLFsJ++/pCUgVLlzo6z/wiANQBvV6Owm7ADioMQExyOkVDUCn3Kf7LNDowjhTF9D+L/QDc2/mhLjnm0xeEx7A0ot7CNyA7kriGuLZoBBe2VcQgpiYD9UAAAAASUVORK5CYII=";
+            } else {
+                link.href = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEUAAAABCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA8BCA94IF9mAAAAInRSTlMAAQIDBAUGChktOEZOUlZweH+Ulautr7S1t77ByODo9/n96mRlnwAAAHBJREFUOMvlkjcOgDAMRT+99w6hxPc/JCAYiTMy5Eme/GTLBTADpxgmFX1+CTVxZMAh1NUt6gCamP538grvrfchLJZGoJUX4pR4Af7/QhiRbkydsCW3YFcP36uWM3eLEehpVv6DoBIIWqn8hr1xYQgnqxAeAo3sofEAAAAASUVORK5CYII=";
+            }
+            currentIcon = !currentIcon;
+            if (oldLink) {
+          document.head.removeChild(oldLink);
+         }
+         document.head.appendChild(link);
+        }
+        setInterval(swapIcon, 500);
+    
+    </script>
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
