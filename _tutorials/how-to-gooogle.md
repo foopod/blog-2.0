@@ -1,12 +1,16 @@
 ---
 layout: post
-title: How To Google
+title: Advanced Google
 date: 2017-02-12
 tags: []
 tagline: What google can do for you
 description: Why solve a problem someone else has solved? Let Google do it and save your energy for other things.
 image: /public/images/google.png
 ---
+
+So you want to learn how to use Google like a pro? Want google to solve all your problems for you?
+
+Here's how..
 
 ## What is Google?
 
