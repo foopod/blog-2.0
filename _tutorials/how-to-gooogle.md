@@ -37,7 +37,7 @@ Because the internet is a weird and wonderful place. Google seen pictures like t
 
 The box below reads **javascript**. How would you make a pop up **alert box** that says `Hello World!`?
 
-<p class="challengeEntry" id="jsTestOneContainer"><input type="text" id="jsTestOne"><button type="button" onclick="jsTestOne()">Submit</button></p>
+<p class="challengeEntry" id="jsTestOneContainer"><input type="text" id="jsTestOne" placeholder="Put code here..."><button type="button" onclick="jsTestOne()">Submit</button></p>
 <p style="text-align:right;"><a href="http://google.com/search?q=javascript+alert" target="_blank">Need some help?</a></p>
 <script>
 function jsTestOne(){
@@ -65,7 +65,7 @@ function jsTestOne(){
 See this poop? Which **css** style would **move** it to the right side of the **page**.
 
 <p id="jsTestTwoTarget" style="font-size:50px;">💩</p>
-<p class="challengeEntry" id="jsTestTwoContainer"><input type="text" id="jsTestTwo"><button type="button" onclick="jsTestTwo()">Submit</button></p>
+<p class="challengeEntry" id="jsTestTwoContainer"><input placeholder="Put code here..." type="text" id="jsTestTwo"><button type="button" onclick="jsTestTwo()">Submit</button></p>
 <p style="text-align:right;"><a href="http://google.com/search?q=css+move+right" target="_blank">Need some help?</a></p>
 <script>
 var attempts = [];
@@ -112,7 +112,7 @@ For **anything else** you can just skim the page or use Find (CMD+F or CTRL+F) o
 The box below uses **javascript**. How do you **insert an object into a list**?
 
 <p class="challengeEntry" id="jsTestThreeTarget">[❤️️, ⚽, ☺️️, ✌️️]</p>
-<p id="jsTestThreeContainer" class="challengeEntry"><input type="text" id="jsTestThree"><button type="button" onclick="jsTestThree()">Submit</button></p>
+<p id="jsTestThreeContainer" class="challengeEntry"><input placeholder="Put code here..." type="text" id="jsTestThree"><button type="button" onclick="jsTestThree()">Submit</button></p>
 <p style="text-align:right;"><a href="http://google.com/search?q=javascript+insert+into+list" target="_blank">Need some help?</a></p>
 <script>
 function jsTestThree(){
@@ -146,7 +146,7 @@ If you are looking for something specific you can search for an answer using quo
 
 Who first said `"What doesn't kill you does a great job of making you look incompetent"`?
 
-<p id="jsTestFourContainer" class="challengeEntry"><input type="text" id="jsTestFour"><button type="button" onclick="jsTestFour()">Submit</button></p>
+<p id="jsTestFourContainer" class="challengeEntry"><input placeholder="Put code here..." type="text" id="jsTestFour"><button type="button" onclick="jsTestFour()">Submit</button></p>
 <p style="text-align:right;"><a href='http://google.com/search?q="What+doesn%27t+kill+you+does+a+great+job+of+making+you+look+incompetent"' target="_blank">Need some help?</a></p>
 <script>
 function jsTestFour(){
