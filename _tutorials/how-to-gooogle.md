@@ -109,7 +109,7 @@ For **anything else** you can just skim the page or use Find (CMD+F or CTRL+F) o
 <div class="challengeContent" markdown="1">
 >Stack Overflow is your friend. When searching for coding things, Stack Overflow results are usually super useful.
 
-The box below uses **javascript**. How do you **insert an object into a list**?
+The box below uses **python**. How do you **add an object to a list**?
 
 <p class="challengeEntry" id="jsTestThreeTarget">[❤️️, ⚽, ☺️️, ✌️️]</p>
 <p id="jsTestThreeContainer" class="challengeEntry"><input placeholder="Put code here..." type="text" id="jsTestThree"><button type="button" onclick="jsTestThree()">Submit</button></p>
@@ -120,8 +120,8 @@ function jsTestThree(){
         document.getElementById("jsTestThreeError").remove();
     }
     var input = document.getElementById("jsTestThree").value.toLowerCase();
-    if(input.includes("splice") || input.includes("shift")){
-        document.getElementById("jsTestThreeTarget").innerHTML = "[❤️️, ☂️, ⚽, ☺️️, ✌️️]";
+    if(input.includes("append")){
+        document.getElementById("jsTestThreeTarget").innerHTML = "[❤️️, ⚽, ☺️️, ✌️️, ☂️]";
         document.getElementById("jsTestThreeContainer").innerHTML = '<p class="correct">Correct!</p>';
     } else {
         document.getElementById("jsTestThreeContainer").insertAdjacentHTML( 'beforeend', '<p id="jsTestThreeError" class="incorrect">Maybe try something else.</p>' );
