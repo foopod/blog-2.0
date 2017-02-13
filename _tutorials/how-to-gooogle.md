@@ -93,13 +93,13 @@ function jsTestTwo(){
 
 ## How do I find the information I need?
 
-Google has given you some handy sites. Now you just need to find some relevant info to help you.
+Google gives you some handy sites, it's up to you to find the info you need.
 
-Websites structure their info in their own way. Here are some common ones and how to find what you are looking for.
+Each website shows it's data in it's own way. Here are some common sites and tips to find what you are looking for.
 
-**Stack Overflow** is one of your most powerful allies. They are kind of like yahoo answers but for coding. Just skim the question to see if it looks relevant to your problem and read the answers that have the most votes.
+**Stack Overflow** is one of your most powerful allies. It is kind of like yahoo answers but for coding. Just skim the question to see if it us like your problem and read the answers that have the most votes.
 
-**W3Schools** has tons of info on HTML, CSS and javascript. I like to go straight to the examples because that is where all the code is.
+**W3Schools** has tons of info on HTML, CSS and javascript. The code and example sections are my favourite because that's where all the code is.
 
 For **anything else** you can just skim the page or use Find (CMD+F or CTRL+F) on the page to search for keywords.
 
@@ -107,7 +107,6 @@ For **anything else** you can just skim the page or use Find (CMD+F or CTRL+F) o
 {:.challengeTitle}
 ## Challenge #3
 <div class="challengeContent" markdown="1">
->Stack Overflow is your friend. When searching for coding things, Stack Overflow results are usually super useful.
 
 The box below uses **python**. How do you **add an object to a list**?
 
@@ -135,7 +134,9 @@ function jsTestThree(){
 
 Google is starting to get better at matching questions to answers. But it's excellent at finding answers on their own.
 
-Think about how the answer would be phrased, so instead of searching for `What is the land mass of Australia?`, try looking for the answer `Australian land mass`. Not only is it quicker to type in, but you will find it even if no one has asked the question.
+Try searching for the answer on it's own, think about how it would be phrased.
+
+So instead of searching for `What is the land mass of Australia?`, try looking for the answer `Australia land mass`. Not only is it quicker to type in, but you will find it even if no one has asked the question.
 
 If you are looking for something specific you can search for an answer using quotation marks. So instead of searching for `need to summon a druid, then sing me a song` you could search for `"Need to summon a Druid?" "Sing me a song"`.
 
