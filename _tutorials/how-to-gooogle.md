@@ -33,9 +33,7 @@ Because the internet is a weird and wonderful place. Google has seen pictures li
 ## Challenge #1
 
 <div class="challengeContent" markdown="1">
-<p class="message" style="overflow:hidden">
-  Use Google to solve these challenges. HINT : Useful things to search are in **bold**
-</p>
+> Use Google to solve these challenges. **HINT:** Useful things to search are in **bold**
 
 The box below reads **javascript**. How would you make a pop up **alert box** that says `Hello World!`?
 
