@@ -97,7 +97,7 @@ Google gives you some handy sites, it's up to you to find the info you need.
 
 Each website shows it's data in it's own way. Here are some common sites and tips to find what you are looking for.
 
-**Stack Overflow** is one of your most powerful allies. It is kind of like yahoo answers but for coding. Just skim the question to see if it us like your problem and read the answers that have the most votes.
+**Stack Overflow** is one of your most powerful allies. It is kind of like yahoo answers but for coding. Just skim the question to see if it us like your problem and read the answers that have the **most votes**.
 
 **W3Schools** has tons of info on HTML, CSS and javascript. The code and example sections are my favourite because that's where all the code is.
 
