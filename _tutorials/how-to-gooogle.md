@@ -10,8 +10,6 @@ image: /public/images/google.png
 
 So you want to learn how to use Google like a pro? Want google to solve all your problems for you?
 
-Here's how..
-
 ## What is Google?
 
 Google is that kid that always knows the answer and puts up their hand 0.46s after the teach asks a question.
