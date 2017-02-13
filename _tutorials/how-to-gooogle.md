@@ -10,11 +10,11 @@ image: /public/images/google.png
 
 ## What is Google?
 
-Google is that guy that always knows the answer and puts up their hand 0.46s after the teach asked the question.
+Google is that kid that always knows the answer and puts up their hand 0.46s after the teach asks a question.
 
 ## How did Google get so smart?
 
-Google reads hundreds of thousands of pages every day. And tries to organise everything it has learned so it can always find it again easily.
+Google reads hundreds of thousands of pages every day. And tries to organise everything so it can always find it again easily.
 
 ## How does it work?
 
@@ -22,7 +22,7 @@ Try searching for `241543903` on Google. What comes up in the images section?
 
 Yep. Pictures of people with their heads in freezers. But why?
 
-Because the internet is a weird and wonderful place. Google seen pictures like this and the number 241543903 together all over the internet.
+Because the internet is a weird and wonderful place. Google has seen pictures like this and the number 241543903 together all over the internet.
 
 <p class="message" style="overflow:hidden">
   FACT :  In 2009 David Horvitz encouraged people to take a picture of their heads in a freezer and upload it with the tag “241543903”.
@@ -33,11 +33,11 @@ Because the internet is a weird and wonderful place. Google seen pictures like t
 ## Challenge #1
 
 <div class="challengeContent" markdown="1">
->Use Google to solve these challenges. Usually the first result will give you exactly what you need.
+> Use Google to solve these challenges. **HINT:** Useful things to search are in **bold**
 
 The box below reads **javascript**. How would you make a pop up **alert box** that says `Hello World!`?
 
-<p class="challengeEntry" id="jsTestOneContainer"><input type="text" id="jsTestOne"><button type="button" onclick="jsTestOne()">Submit</button></p>
+<p class="challengeEntry" id="jsTestOneContainer"><input type="text" id="jsTestOne" placeholder="Put code here..."><button type="button" onclick="jsTestOne()">Submit</button></p>
 <p style="text-align:right;"><a href="http://google.com/search?q=javascript+alert" target="_blank">Need some help?</a></p>
 <script>
 function jsTestOne(){
@@ -65,7 +65,7 @@ function jsTestOne(){
 See this poop? Which **css** style would **move** it to the right side of the **page**.
 
 <p id="jsTestTwoTarget" style="font-size:50px;">💩</p>
-<p class="challengeEntry" id="jsTestTwoContainer"><input type="text" id="jsTestTwo"><button type="button" onclick="jsTestTwo()">Submit</button></p>
+<p class="challengeEntry" id="jsTestTwoContainer"><input placeholder="Put code here..." type="text" id="jsTestTwo"><button type="button" onclick="jsTestTwo()">Submit</button></p>
 <p style="text-align:right;"><a href="http://google.com/search?q=css+move+right" target="_blank">Need some help?</a></p>
 <script>
 var attempts = [];
@@ -93,13 +93,13 @@ function jsTestTwo(){
 
 ## How do I find the information I need?
 
-Google has given you some handy sites. Now you just need to find some relevant info to help you.
+Google gives you some handy sites, it's up to you to find the info you need.
 
-Websites structure their info in their own way. Here are some common ones and how to find what you are looking for.
+Each website shows it's data in it's own way. Here are some common sites and tips to find what you are looking for.
 
-**Stack Overflow** is one of your most powerful allies. They are kind of like yahoo answers but for coding. Just skim the question to see if it looks relevant to your problem and read the answers that have the most votes.
+**Stack Overflow** is one of your most powerful allies. It is kind of like yahoo answers but for coding. Just skim the question to see if it us like your problem and read the answers that have the most votes.
 
-**W3Schools** has tons of info on HTML, CSS and javascript. I like to go straight to the examples because that is where all the code is.
+**W3Schools** has tons of info on HTML, CSS and javascript. The code and example sections are my favourite because that's where all the code is.
 
 For **anything else** you can just skim the page or use Find (CMD+F or CTRL+F) on the page to search for keywords.
 
@@ -107,21 +107,20 @@ For **anything else** you can just skim the page or use Find (CMD+F or CTRL+F) o
 {:.challengeTitle}
 ## Challenge #3
 <div class="challengeContent" markdown="1">
->Stack Overflow is your friend. When searching for coding things, Stack Overflow results are usually super useful.
 
-The box below uses **javascript**. How do you **insert an object into a list**?
+The box below uses **python**. How do you **add an object to a list**?
 
 <p class="challengeEntry" id="jsTestThreeTarget">[❤️️, ⚽, ☺️️, ✌️️]</p>
-<p id="jsTestThreeContainer" class="challengeEntry"><input type="text" id="jsTestThree"><button type="button" onclick="jsTestThree()">Submit</button></p>
-<p style="text-align:right;"><a href="http://google.com/search?q=javascript+insert+into+list" target="_blank">Need some help?</a></p>
+<p id="jsTestThreeContainer" class="challengeEntry"><input placeholder="Put code here..." type="text" id="jsTestThree"><button type="button" onclick="jsTestThree()">Submit</button></p>
+<p style="text-align:right;"><a href="http://google.com/search?q=python+add+to+list" target="_blank">Need some help?</a></p>
 <script>
 function jsTestThree(){
     if(document.getElementById("jsTestThreeError")){
         document.getElementById("jsTestThreeError").remove();
     }
     var input = document.getElementById("jsTestThree").value.toLowerCase();
-    if(input.includes("splice") || input.includes("shift")){
-        document.getElementById("jsTestThreeTarget").innerHTML = "[❤️️, ☂️, ⚽, ☺️️, ✌️️]";
+    if(input.includes("append")){
+        document.getElementById("jsTestThreeTarget").innerHTML = "[❤️️, ⚽, ☺️️, ✌️️, ☂️]";
         document.getElementById("jsTestThreeContainer").innerHTML = '<p class="correct">Correct!</p>';
     } else {
         document.getElementById("jsTestThreeContainer").insertAdjacentHTML( 'beforeend', '<p id="jsTestThreeError" class="incorrect">Maybe try something else.</p>' );
@@ -135,7 +134,9 @@ function jsTestThree(){
 
 Google is starting to get better at matching questions to answers. But it's excellent at finding answers on their own.
 
-Think about how the answer would be phrased, so instead of searching for `What is the land mass of Australia?`, try looking for the answer `Australian land mass`. Not only is it quicker to type in, but you will find it even if no one has asked the question.
+Try searching for the answer on it's own, think about how it would be phrased.
+
+So instead of searching for `What is the land mass of Australia?`, try looking for the answer `Australia land mass`. Not only is it quicker to type in, but you will find it even if no one has asked the question.
 
 If you are looking for something specific you can search for an answer using quotation marks. So instead of searching for `need to summon a druid, then sing me a song` you could search for `"Need to summon a Druid?" "Sing me a song"`.
 
@@ -146,7 +147,7 @@ If you are looking for something specific you can search for an answer using quo
 
 Who first said `"What doesn't kill you does a great job of making you look incompetent"`?
 
-<p id="jsTestFourContainer" class="challengeEntry"><input type="text" id="jsTestFour"><button type="button" onclick="jsTestFour()">Submit</button></p>
+<p id="jsTestFourContainer" class="challengeEntry"><input placeholder="Name goes here..." type="text" id="jsTestFour"><button type="button" onclick="jsTestFour()">Submit</button></p>
 <p style="text-align:right;"><a href='http://google.com/search?q="What+doesn%27t+kill+you+does+a+great+job+of+making+you+look+incompetent"' target="_blank">Need some help?</a></p>
 <script>
 function jsTestFour(){
@@ -154,7 +155,7 @@ function jsTestFour(){
         document.getElementById("jsTestFourError").remove();
     }
     var input = document.getElementById("jsTestFour").value.toLowerCase();
-    if(input.includes("dianna cowern") || input.includes("dianna")){
+    if(input.includes("cowern") || input.includes("dianna")){
         document.getElementById("jsTestFourContainer").innerHTML = '<p class="correct">Correct!</p><p >Notice how the quotation marks helped narrow down the search?</p>';
     } else {
         document.getElementById("jsTestFourContainer").insertAdjacentHTML( 'beforeend', '<p id="jsTestFourError" class="incorrect">Nope.</p>' );
