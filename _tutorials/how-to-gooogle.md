@@ -113,7 +113,7 @@ The box below uses **python**. How do you **add an object to a list**?
 
 <p class="challengeEntry" id="jsTestThreeTarget">[❤️️, ⚽, ☺️️, ✌️️]</p>
 <p id="jsTestThreeContainer" class="challengeEntry"><input placeholder="Put code here..." type="text" id="jsTestThree"><button type="button" onclick="jsTestThree()">Submit</button></p>
-<p style="text-align:right;"><a href="http://google.com/search?q=javascript+insert+into+list" target="_blank">Need some help?</a></p>
+<p style="text-align:right;"><a href="http://google.com/search?q=python+add+to+list" target="_blank">Need some help?</a></p>
 <script>
 function jsTestThree(){
     if(document.getElementById("jsTestThreeError")){
