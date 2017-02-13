@@ -146,7 +146,7 @@ If you are looking for something specific you can search for an answer using quo
 
 Who first said `"What doesn't kill you does a great job of making you look incompetent"`?
 
-<p id="jsTestFourContainer" class="challengeEntry"><input placeholder="Put code here..." type="text" id="jsTestFour"><button type="button" onclick="jsTestFour()">Submit</button></p>
+<p id="jsTestFourContainer" class="challengeEntry"><input placeholder="Name goes here..." type="text" id="jsTestFour"><button type="button" onclick="jsTestFour()">Submit</button></p>
 <p style="text-align:right;"><a href='http://google.com/search?q="What+doesn%27t+kill+you+does+a+great+job+of+making+you+look+incompetent"' target="_blank">Need some help?</a></p>
 <script>
 function jsTestFour(){
@@ -154,7 +154,7 @@ function jsTestFour(){
         document.getElementById("jsTestFourError").remove();
     }
     var input = document.getElementById("jsTestFour").value.toLowerCase();
-    if(input.includes("dianna cowern") || input.includes("dianna")){
+    if(input.includes("cowern") || input.includes("dianna")){
         document.getElementById("jsTestFourContainer").innerHTML = '<p class="correct">Correct!</p><p >Notice how the quotation marks helped narrow down the search?</p>';
     } else {
         document.getElementById("jsTestFourContainer").insertAdjacentHTML( 'beforeend', '<p id="jsTestFourError" class="incorrect">Nope.</p>' );
