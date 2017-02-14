@@ -1,12 +1,14 @@
 ---
 layout: post
-title: How To Google
+title: Advanced Google
 date: 2017-02-12
 tags: []
 tagline: What google can do for you
 description: Why solve a problem someone else has solved? Let Google do it and save your energy for other things.
 image: /public/images/google.png
 ---
+
+So you want to know how to use Google like a pro? Want google to solve all your problems for you?
 
 ## What is Google?
 
@@ -95,9 +97,9 @@ function jsTestTwo(){
 
 Google gives you some handy sites, it's up to you to find the info you need.
 
-Each website shows it's data in it's own way. Here are some common sites and tips to find what you are looking for.
+Each website shows its data in its own way. Here are some common sites and tips to find what you are looking for.
 
-**Stack Overflow** is one of your most powerful allies. It is kind of like yahoo answers but for coding. Just skim the question to see if it us like your problem and read the answers that have the most votes.
+**Stack Overflow** is one of your most powerful allies. It is kind of like yahoo answers but for coding. Just skim the question to see if it us like your problem and read the answers that have the **most votes**.
 
 **W3Schools** has tons of info on HTML, CSS and javascript. The code and example sections are my favourite because that's where all the code is.
 
@@ -134,7 +136,7 @@ function jsTestThree(){
 
 Google is starting to get better at matching questions to answers. But it's excellent at finding answers on their own.
 
-Try searching for the answer on it's own, think about how it would be phrased.
+Try searching for the answer on its own, think about how it would be phrased.
 
 So instead of searching for `What is the land mass of Australia?`, try looking for the answer `Australia land mass`. Not only is it quicker to type in, but you will find it even if no one has asked the question.
 
@@ -181,3 +183,15 @@ You can also use **-** to remove something from search results.
 
 >eg. `jaguar speed -car`
 
+## Google in action!
+
+So now that you know how to use Google, put it to work while you are coding.
+
+It works for anything and everything. Not just scratch or HTML, but any question you have about anything.
+
+Want to see how I use Google?
+
+<a href="https://docs.google.com/document/d/1L6JDnchdb53lg15haj1gbhHnNLlATVOzRVO3AjgQ_eo/edit?usp=sharing" target="_blank">
+Here</a> is a log of how I google when I am programming. Yep. Every few minutes I find something I haven't memorized and need to google it.
+
+I hope you enjoyed this 'How to Google' tutorial. If you have any questions or requests on things for next time then leave a comment for me down below.
