@@ -8,7 +8,7 @@ description: Why solve a problem someone else has solved? Let Google do it and s
 image: /public/images/google.png
 ---
 
-So you want to learn how to use Google like a pro? Want google to solve all your problems for you?
+So you want to know how to use Google like a pro? Want google to solve all your problems for you?
 
 ## What is Google?
 
@@ -192,6 +192,6 @@ It works for anything and everything. Not just scratch or HTML, but any question
 Want to see how I use Google?
 
 <a href="https://docs.google.com/document/d/1L6JDnchdb53lg15haj1gbhHnNLlATVOzRVO3AjgQ_eo/edit?usp=sharing" target="_blank">
-This</a> is a log of how I google when I am programming. Yep. Every few minutes I find something I haven't memorized and need to google it.
+Here</a> is a log of how I google when I am programming. Yep. Every few minutes I find something I haven't memorized and need to google it.
 
 I hope you enjoyed this 'How to Google' tutorial. If you have any questions or requests on things for next time then leave a comment for me down below.
