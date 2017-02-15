@@ -8,7 +8,15 @@ description: Why solve a problem someone else has solved? Let Google do it and s
 image: /public/images/google.png
 ---
 
-So you want to know how to use Google like a pro? Want google to solve all your problems for you?
+## Goal
+
+Learning to Google like a pro. Use the worlds largest search engines to solve problems for you
+
+## Requirements
+
+* Able to open a new tab and search for something
+* Able to copy and paste
+* In this tutorial I use a lot of programming languages as examples, you don't need to know any of them to complete the challenges. Let Google do it all for you.
 
 ## What is Google?
 
