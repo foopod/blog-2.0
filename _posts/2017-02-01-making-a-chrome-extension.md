@@ -14,7 +14,7 @@ I had this idea when I was making a sidebar for my blog, it was like if a waterf
 So I started off making a Bookmarklet (a browser bookmark that contains javascript). The idea is pretty simple and just adds a pretty animated canvas to the DOM.
 
 #### rainbow.js
-```
+``` javascript
 (function(){
   var body=document.getElementsByTagName("body");
   var canvas=document.createElement("canvas");
@@ -76,7 +76,7 @@ Above you will notice two scripts, `addContent.js` and `rainbow.js`. The `conten
 
 #### addContent.js
 
-```
+``` javascript
 var rainbowInstallService = document.createElement('script');
 rainbowInstallService.src = chrome.extension.getURL('rainbow.js');
 (document.head||document.documentElement).appendChild(rainbowInstallService);
