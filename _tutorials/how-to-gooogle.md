@@ -219,7 +219,7 @@ function updateSummary(){
         document.getElementById("jsChallengSummary").innerHTML = "Keep up the awesome work, only <strong>"+ challengesRemaining + "</strong> challenges left to complete.";
     }else {
         document.getElementById("jsChallengSummary").innerHTML = "Great job! You completed all of the challenges!";
-        document.getElementById("jsChallengSummary").insertAdjacentHTML('beforeend', '<img src="http://rs1193.pbsrc.com/albums/aa355/ohhburn/GIF/tumblr_lak7t1GNsW1qagh5k.gif~c200"/>');
+        document.getElementById("jsChallengSummary").insertAdjacentHTML('beforeend', '<img src="/public/images/spongebob.gif"/>');
     }
 }
 
