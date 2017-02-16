@@ -11,7 +11,7 @@ description: How to make an animated favicon? Is it too much?
 
 [...skip to the code](#code)
 
-<img src="http://i.giphy.com/3o6Yg9HzWBCFhMdTa0.gif"/>
+<img src="https://i.giphy.com/3o6Yg9HzWBCFhMdTa0.gif"/>
 
 As per the W3 spec the browser looks for your favicon in the head of your HTML document. All major browsers support .ico and .png filetypes. The highest resolution combatible universally is 32x32 pixels.
 
