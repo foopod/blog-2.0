@@ -10,7 +10,7 @@ image: /public/images/google.png
 
 ## Goal
 
-Learning to Google like a pro. Use the worlds largest search engines to solve problems for you
+Learning to Google like a pro. Use the worlds largest search engines to solve your problems.
 
 ## Requirements
 
