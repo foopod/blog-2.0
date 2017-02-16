@@ -148,7 +148,7 @@ Try searching for the answer on its own, think about how it would be phrased.
 
 So instead of searching for `What is the land mass of Australia?`, try looking for the answer `Australia land mass`. Not only is it quicker to type in, but you will find it even if no one has asked the question.
 
-If you are looking for something specific you can search for an answer using quotation marks. So instead of searching for `need to summon a druid, then sing me a song` you could search for `"Need to summon a Druid?" "Sing me a song"`.
+If you are looking for something specific you can search for an answer using quotation marks. So instead of searching for `need to summon a druid?` you could search for `"Need to summon a Druid?"`.
 
 <div class="challengeContainer" markdown="1">
 {:.challengeTitle}
@@ -169,6 +169,66 @@ function jsTestFour(){
         document.getElementById("jsTestFourContainer").innerHTML = '<p class="correct">Correct!</p><p >Notice how the quotation marks helped narrow down the search?</p>';
     } else {
         document.getElementById("jsTestFourContainer").insertAdjacentHTML( 'beforeend', '<p id="jsTestFourError" class="incorrect">Nope.</p>' );
+    }
+}
+</script>
+</div>
+</div>
+
+## Googling for Errors
+
+You may think that the above challenge doesn't have anything to do with programming. But I get errors all the time when I am coding, and for every problem the error is the same every time.
+
+Look at this one for example...
+
+```
+Conversion error: Jekyll::Converters::Markdown encountered an error while converting '_tutorials/2017-02-12-how-to-gooogle.md/#excerpt':
+Missing dependency: kramdown
+ERROR: YOUR SITE COULD NOT BE BUILT:
+------------------------------------
+Missing dependency: kramdown
+```
+
+When you get an error it is important to figure out what is going to be the most useful part to google. Searching for code specific to your project won't get you any helpful results, try to look for generic parts of the error.
+
+#### <i class="fa fa-check" aria-hidden="true"></i> Do search
+
+`Missing dependency: kramdown`
+
+`"Markdown encountered an error while converting"`
+
+#### <i class="fa fa-times" aria-hidden="true"></i> Don't search
+
+`error while converting '_tutorials/2017-02-12-how-to-gooogle.md/#excerpt'`
+
+<div class="challengeContainer" markdown="1">
+{:.challengeTitle}
+## Challenge #5
+<div class="challengeContent" markdown="1">
+
+```
+Conversion error: Jekyll::Converters::Markdown encountered an error while converting '_tutorials/2017-02-12-how-to-gooogle.md/#excerpt':
+Missing dependency: kramdown
+```
+
+Let's say you run into this error above while making a website using Jekyll.
+
+What command would you run to fix it?
+<p class="challengeEntry" id="jsTestFiveTarget"></p>
+<p id="jsTestFiveContainer" class="challengeEntry"><input placeholder="Code goes here..." type="text" id="jsTestFive"><button type="button" onclick="jsTestFive()">Submit</button></p>
+<p style="text-align:right;"><a href='http://google.com/search?q="What+doesn%27t+kill+you+does+a+great+job+of+making+you+look+incompetent"' target="_blank">Need some help?</a></p>
+
+<script>
+function jsTestFive(){
+    if(document.getElementById("jsTestFiveError")){
+        document.getElementById("jsTestFiveError").remove();
+    }
+    var input = document.getElementById("jsTestFive").value.toLowerCase();
+    if(input.includes("bundle") || input.includes("install") || input.includes("gem")){
+        document.getElementById("jsTestFiveTarget").innerHTML = "<pre><code>Successfully installed kramdown-1.13.2</code></pre>";
+        document.getElementById("jsTestFiveContainer").innerHTML = '<p class="correct">Correct!</p>';
+    } else {
+        document.getElementById("jsTestFiveContainer").insertAdjacentHTML( 'beforeend', '<p id="jsTestFiveError" class="incorrect">Nope.</p>' );
     }
 }
 </script>
