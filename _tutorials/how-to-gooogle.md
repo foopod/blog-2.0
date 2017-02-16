@@ -50,6 +50,7 @@ The box below reads **javascript**. How would you make a pop up **alert box** th
 <p class="challengeEntry" id="jsTestOneContainer"><input type="text" id="jsTestOne" placeholder="Put code here..."><button type="button" onclick="jsTestOne()">Submit</button></p>
 <p style="text-align:right;"><a href="http://google.com/search?q=javascript+alert" target="_blank">Need some help?</a></p>
 <script>
+var challengesRemaining = 4;
 function jsTestOne(){
     if(document.getElementById("jsTestOneError")){
         document.getElementById("jsTestOneError").remove();
@@ -57,7 +58,8 @@ function jsTestOne(){
     var input = document.getElementById("jsTestOne").value.toLowerCase();
     if(input.includes("alert")){
         alert("");
-        document.getElementById("jsTestOneContainer").innerHTML = '<p class="correct">Correct!</p>'
+        document.getElementById("jsTestOneContainer").innerHTML = '<p class="correct">Correct!</p>';
+        updateSummary();
     } else {
         document.getElementById("jsTestOneContainer").insertAdjacentHTML( 'beforeend', '<p class="incorrect" id="jsTestOneError">Nope try again!</p>' );
     }
@@ -92,6 +94,7 @@ function jsTestTwo(){
             } else {
                 document.getElementById("jsTestTwoTarget").style.textAlign = "right";
                 document.getElementById("jsTestTwoContainer").innerHTML = '<p class="correct">Correct!</p>';
+                updateSummary();
             }
         }
     } else {
@@ -132,6 +135,7 @@ function jsTestThree(){
     if(input.includes("append")){
         document.getElementById("jsTestThreeTarget").innerHTML = "[❤️️, ⚽, ☺️️, ✌️️, ☂️]";
         document.getElementById("jsTestThreeContainer").innerHTML = '<p class="correct">Correct!</p>';
+        updateSummary();
     } else {
         document.getElementById("jsTestThreeContainer").insertAdjacentHTML( 'beforeend', '<p id="jsTestThreeError" class="incorrect">Maybe try something else.</p>' );
     }
@@ -167,6 +171,7 @@ function jsTestFour(){
     var input = document.getElementById("jsTestFour").value.toLowerCase();
     if(input.includes("cowern") || input.includes("dianna")){
         document.getElementById("jsTestFourContainer").innerHTML = '<p class="correct">Correct!</p><p >Notice how the quotation marks helped narrow down the search?</p>';
+        updateSummary();
     } else {
         document.getElementById("jsTestFourContainer").insertAdjacentHTML( 'beforeend', '<p id="jsTestFourError" class="incorrect">Nope.</p>' );
     }
@@ -201,5 +206,26 @@ Want to see how I use Google?
 
 <a href="https://docs.google.com/document/d/1L6JDnchdb53lg15haj1gbhHnNLlATVOzRVO3AjgQ_eo/edit?usp=sharing" target="_blank">
 Here</a> is a log of how I google when I am programming. Yep. Every few minutes I find something I haven't memorized and need to google it.
+
+<div class="challengeContainer" markdown="1">
+{:.challengeTitle}
+## Challenge Result!
+<div class="challengeContent" markdown="1">
+<p id="jsChallengSummary" class="challengeEntry">Keep up the awesome work, only <strong>4</strong> challenges left to complete.</p>
+<script>
+function updateSummary(){
+    challengesRemaining--;
+    if(challengesRemaining > 0){
+        document.getElementById("jsChallengSummary").innerHTML = "Keep up the awesome work, only <strong>"+ challengesRemaining + "</strong> challenges left to complete.";
+    }else {
+        document.getElementById("jsChallengSummary").innerHTML = "Great job! You completed all of the challenges!";
+        document.getElementById("jsChallengSummary").insertAdjacentHTML('beforeend', '<img src="http://rs1193.pbsrc.com/albums/aa355/ohhburn/GIF/tumblr_lak7t1GNsW1qagh5k.gif~c200"/>');
+    }
+}
+
+</script>
+</div>
+
+</div>
 
 I hope you enjoyed this 'How to Google' tutorial. If you have any questions or requests on things for next time then leave a comment for me down below.
