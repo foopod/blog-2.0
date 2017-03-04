@@ -24,6 +24,11 @@
  * Themes
  */
 
+.surname{
+    font-size: 75px;
+    display: block;
+    text-decoration: none;
+}
 
 /*
  * Global resets
@@ -57,7 +62,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(0,0,0,.5);
     
-    background-color: #2D3047;
+    background-color: #e72264;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -78,20 +83,22 @@ html {
 /* Sidebar links */
 .sidebar a {
     color: white;
-    text-shadow: 0px 0px 3px #000;
+    cursor: ;
+/*    text-decoration: underline;*/
+/*    text-shadow: 0px 0px 3px #000;*/
 }
 
 .sidebar-about .lead {
     color: #EEE;
-    text-shadow: 0px 2px 3px #000;
+/*    text-shadow: 0px 2px 3px #000;*/
 }
 
 /* About section */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: 'Work Sans', sans-serif;
-  font-size: 3.25rem;
+  font-family: 'Oswald', sans-serif;
+  font-size: 120px;
 }
 
 /* Sidebar nav */
@@ -130,7 +137,7 @@ a.sidebar-nav-item:focus {
        padding:0px;
   }
 .sidebar-container{
-    margin-top: 4em;
+    margin-top: 2em;
 }
     
 }
