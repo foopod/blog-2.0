@@ -132,6 +132,10 @@ html {
         font-size: 120px;
     }
     
+    .lead{
+        font-size: 25px;    
+    }
+    
     .surname{
         font-size: 75px; 
     }
