@@ -56,8 +56,8 @@ function jsTestOne(){
         document.getElementById("jsTestOneError").remove();
     }
     var input = document.getElementById("jsTestOne").value.toLowerCase();
-    if(input.includes("alert")){
-        alert("");
+    if(input.indexOf("alert") !== -1){
+        alert("Hello World!");
         document.getElementById("jsTestOneContainer").innerHTML = '<p class="correct">Correct!</p>';
         updateSummary();
     } else {
@@ -86,8 +86,8 @@ function jsTestTwo(){
         document.getElementById("jsTestTwoError").remove();
     }
     var input = document.getElementById("jsTestTwo").value.toLowerCase();
-    if(input.includes("margin") || input.includes("padding") || input.includes("text-align") || input.includes("float") || input.includes("right") || input.includes("position") ){
-        if(!attempts.includes(input)){
+    if(input.indexOf("margin") !== -1 || input.indexOf("padding") !== -1 || input.indexOf("text-align") !== -1 || input.indexOf("float") !== -1 || input.indexOf("right") !== -1 || input.indexOf("position") !== -1 ){
+        if(!attempts.indexOf(input) !== -1){
             if(attempts.length == 0){
                 document.getElementById("jsTestTwoContainer").insertAdjacentHTML( 'beforeend', '<p id="jsTestTwoError" class="incorrect">Not that one!</p>' );
                 attempts.push(input);
@@ -132,7 +132,7 @@ function jsTestThree(){
         document.getElementById("jsTestThreeError").remove();
     }
     var input = document.getElementById("jsTestThree").value.toLowerCase();
-    if(input.includes("append")){
+    if(input.indexOf("append") !== -1){
         document.getElementById("jsTestThreeTarget").innerHTML = "[❤️️, ⚽, ☺️️, ✌️️, ☂️]";
         document.getElementById("jsTestThreeContainer").innerHTML = '<p class="correct">Correct!</p>';
         updateSummary();
@@ -169,7 +169,7 @@ function jsTestFour(){
         document.getElementById("jsTestFourError").remove();
     }
     var input = document.getElementById("jsTestFour").value.toLowerCase();
-    if(input.includes("cowern") || input.includes("dianna")){
+    if(input.indexOf("cowern") !== -1 || input.indexOf("dianna") !== -1){
         document.getElementById("jsTestFourContainer").innerHTML = '<p class="correct">Correct!</p><p >Notice how the quotation marks helped narrow down the search?</p>';
         updateSummary();
     } else {
