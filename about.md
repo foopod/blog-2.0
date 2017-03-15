@@ -10,7 +10,7 @@ Web developer, game programmer, coffee addict...
 
 I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.
 
-**Like a Druid?**
+**You're a Druid?**
 
 <a href="http://druidjono.com">Yep</a>.
 
