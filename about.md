@@ -34,7 +34,7 @@ I spend my days making small prototypes and junk, volunteering at my local codec
     <div class="timeline-experience">
         <div class="timeline-employer">Vodafone New Zealand</div>
         <div class="timeline-role">Technology Graduate</div>
-        <div class="timeline-description">After one year in their graduate programme I was able to land a permanent role in an agile squad working in ecommerce enhancement with a Java based Oracle stack. My experience largely started off in back end development, but in my time I have picked up front end, automation testing and devops skills.</div>
+        <div class="timeline-description">In the Vodafone graduate programme I had the opportunity to explore multiple potential fields. This allowed me to try project management, voice and data operations, security operations and system integration.</div>
     </div>
 </div>
 
@@ -47,7 +47,7 @@ I spend my days making small prototypes and junk, volunteering at my local codec
     <div class="timeline-experience">
         <div class="timeline-employer">Dick Smiths</div>
         <div class="timeline-role">Sales Representative</div>
-        <div class="timeline-description">After one year in their graduate programme I was able to land a permanent role in an agile squad working in ecommerce enhancement with a Java based Oracle stack. My experience largely started off in back end development, but in my time I have picked up front end, automation testing and devops skills.</div>
+        <div class="timeline-description">Before and while studying I worked in retail at Dick Smith Electronics. This experience was invaluable to me as it gave me the confidence and communication skills that I use daily, it also provided a great deal of insight into an array of Technology.</div>
     </div>
 </div>
 
@@ -56,7 +56,7 @@ I spend my days making small prototypes and junk, volunteering at my local codec
     <div class="timeline-experience">
         <div class="timeline-employer">Auckland University of Technology</div>
         <div class="timeline-role">Bachelor of Engineering Technology - Computer and Mobile Systems</div>
-        <div class="timeline-description">After one year in their graduate programme I was able to land a permanent role in an agile squad working in ecommerce enhancement with a Java based Oracle stack. My experience largely started off in back end development, but in my time I have picked up front end, automation testing and devops skills.</div>
+        <div class="timeline-description">My degree covered papers such as data structures, algorithm design and analysis, distributed systems and game programming. For my final year project I researched and reproduced accurate physical simulations in Unity3D.</div>
     </div>
 </div>
 
