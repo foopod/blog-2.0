@@ -329,8 +329,71 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
+/* Portfolio */
 
+.timeline{
+    display:table;
+    margin-bottom:20px;
+}
 
+.timeline-date{
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+    padding:0px 10px;
+}
+
+.timeline-experience{
+    display:table-cell;
+    padding-left:20px;
+}
+
+.timeline-employer{
+    font-weight:bold;
+}
+
+.timeline-role{
+    font-size:16px;
+    text-decoration:underline;
+}
+
+.timeline-description{
+    font-size:16px;
+}
+
+.timeline-marker{
+    font-size:40px;   
+}
+
+#skills li {
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: #374054;
+    background: #e4e4ea;
+    list-style: none;
+    cursor: default;
+    font-size: 1em;
+}
+
+#contact{
+    font-family:Work Sans;
+    border:none;
+}
+
+#contact td{
+    border:none;
+    background-color:white;
+}
+
+#contact i{
+    font-size:30px;
+    padding:5px 0px;
+}
+
+.table-center{
+    text-align:center;
+}
 
 /* JS Tutorial */
 .icon{
