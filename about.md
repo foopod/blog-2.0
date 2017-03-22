@@ -66,7 +66,7 @@ I spend my days making small prototypes and junk, volunteering at my local codec
         <li>Java</li>
         <li>HTML & CSS</li>
         <li>Javascript</li>
-        <li>ATG E-commerce</li>
+        <li>Oracle ATG Ecommerce</li>
         <li>Game Development</li>
         <li>Unity3D</li>
         <li>SQL</li>
@@ -96,7 +96,7 @@ I spend my days making small prototypes and junk, volunteering at my local codec
     </tr>
     <tr>
         <td class="table-center"><i class="fa fa-phone" aria-hidden="true"></i></td>
-        <td><a href="tel:+6421520893">021520893</a></td>
+        <td><a href="tel:+6421520893">+64 21 520893</a></td>
     </tr>
     </tbody>
 </table>
