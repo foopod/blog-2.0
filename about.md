@@ -8,9 +8,7 @@ description: A little more information about your favourite Jono...
 
 <div class="timeline">
     <div class="timeline-experience">
-        <p>I am Jono.</p>
-        <p>Web developer, game programmer, coffee addict...</p>
-        <p>I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.</p>
+        <p>I am Jono. Web developer, game programmer, coffee addict... I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.</p>
     </div>
 </div>
 
