@@ -1,16 +1,20 @@
 ---
-layout: page
+layout: default
 title: About
 description: A little more information about your favourite Jono...
 ---
+<div class="page">
+<h1 class="portfolio-header">About</h1>
 
-I am Jono.
+<div class="timeline">
+    <div class="timeline-experience">
+        <p>I am Jono.</p>
+        <p>Web developer, game programmer, coffee addict...</p>
+        <p>I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.</p>
+    </div>
+</div>
 
-Web developer, game programmer, coffee addict...
-
-I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.
-
-<h1 class="page-title">Experience</h1>
+<h1 class="portfolio-header">Experience</h1>
 
 <div class="timeline">
     <div class="timeline-date">
@@ -51,7 +55,7 @@ I spend my days making small prototypes and junk, volunteering at my local codec
     </div>
 </div>
 
-<h1 class="page-title">Education</h1>
+<h1 class="portfolio-header">Education</h1>
 <div class="timeline">
     <div class="timeline-experience">
         <div class="timeline-employer">Auckland University of Technology</div>
@@ -60,7 +64,7 @@ I spend my days making small prototypes and junk, volunteering at my local codec
     </div>
 </div>
 
-<h1 class="page-title">Skills</h1>
+<h1 class="portfolio-header">Skills</h1>
 <div id="skills">
     <ul>
         <li>Java</li>
@@ -70,14 +74,13 @@ I spend my days making small prototypes and junk, volunteering at my local codec
         <li>Game Development</li>
         <li>Unity3D</li>
         <li>SQL</li>
-        <li>Apache</li>
         <li>Agile with Scrum</li>
         <li>Test Automation</li>
         <li>Continuous Integration</li>
     </ul>
 </div>
 
-<h1 class="page-title">Contact</h1>
+<h1 class="portfolio-header">Contact</h1>
 <table id="contact">
     <tbody>
 <!--
@@ -100,3 +103,5 @@ I spend my days making small prototypes and junk, volunteering at my local codec
     </tr>
     </tbody>
 </table>
+
+</div>
