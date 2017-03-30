@@ -7,9 +7,7 @@ tagline: Perlin noise is sooooo cool!
 description: Using Math to generated cool pictures
 ---
 
-<img src="/public/images/header.png"/>
-
-This week I saw a totally bitchin' Twitter account that post procedurally generated mountain skylines.
+This week I saw a totally bitchin' twitter bot that posts procedurally generated mountain skylines.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">2.47345°N, 99.24996°E <a href="https://twitter.com/hashtag/generative?src=hash">#generative</a> <a href="https://twitter.com/hashtag/procedural?src=hash">#procedural</a> <a href="https://twitter.com/hashtag/paperjs?src=hash">#paperjs</a> <a href="https://t.co/wuFp32ye1h">pic.twitter.com/wuFp32ye1h</a></p>&mdash; muted mountains (@muted_mountains) <a href="https://twitter.com/muted_mountains/status/845908222389043201">March 26, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -26,7 +24,7 @@ Let's change those hills from generic looking curves(that kind of look like wave
 
 In my original I use Perlin Noise to generate the mountain. Perlin Noise is an algorithm that generates random numbers that are close to each other, this means that you can create smooth transitions between numbers and generate all kinds of curves. If you want to know more about Perlin Noise, then I would highly recommend [this article](http://flafla2.github.io/2014/08/09/perlinnoise.html) by [adrian's soapbox](http://flafla2.github.io/index.html).
 
-The issue I am facing now is that I am struggling to get both the big amplitudes of the rolling mountains as well as the finer details that mountains have, the cracks, crevices and smaller rocks. This is acheived by using multiple octaves of Perlin Noise. 
+The issue I am facing now is that I am struggling to get both the big amplitudes of the rolling mountains as well as the finer details that mountains have, the cracks, crevices and smaller rocks. This can however be acheived by using multiple octaves of Perlin Noise. 
 
 This essentially means adding multiple scales of Perlin noise together.
 
@@ -34,7 +32,7 @@ This essentially means adding multiple scales of Perlin noise together.
 
 <img src="/public/images/perlin_combined.png"/>
 
-Again, the above blogpost covers this really well and these images were taken from the [same place](http://freespace.virgin.net/hugo.elias/models/m_perlin.htm). To do this I took the code straight from that article and change the syntax to javascript, worked like a charm.
+Again, the above blogpost covers this really well and these images were taken from there too. I took the code straight from that article and changed the syntax to javascript, worked like a charm.
 
 ``` javascript
 function octavePerlin(x, y, z, octaves, persistence) {
@@ -59,13 +57,15 @@ function octavePerlin(x, y, z, octaves, persistence) {
 
 And bam! We have lovely looking mountains.
 
-I was pretty happy with this and started showing people. My friend Ian(@) was pretty impressed (obviously) and showed me this picture that he was reminded of (courtesy of [chrischernewych](http://chrischernewych.deviantart.com/)).
+I was pretty happy with this and started showing people. My friend Ian([@dentudim](https://twitter.com/dentudim)) was pretty impressed (obviously) and showed me this picture that he was reminded of (courtesy of [chrischernewych](http://chrischernewych.deviantart.com/)).
 
 <img src="http://pre10.deviantart.net/36a8/th/pre/i/2017/073/b/2/remote_location___framed_by_chrischernewych-db2c3ob.png">
 
-Gorgeous! I wonder if I could make trees like that? Surely I could make something that looks like that using math.
+Gorgeous! I wonder if I could make trees like that?
 
-Easy right? Lets just make a lovely sawtooth wave. But how?
+Lets just make a lovely sawtooth wave. 
+
+Easy right? But how?
 
 All my mountains are drawn using Perlin Noise, to do this all the functions take a horizontal location on the screen and spit out the height of that point.
 
@@ -73,15 +73,15 @@ I wanted to do the same thing for the trees, so essentially we need a mathematic
 
 We want a line that goes up and down real pointy like. So I started with a sawtooth wave. I achieved this with the modulo function.
 
-Something like `height = x%100` and this gives us something that looks pretty deadly.
+Something like `height = xPosition%100` and this gives us something that looks pretty deadly.
 
 <img src="/public/images/sawtooth.png"/>
 
-Next thing was making the waves symmetrical, this could be done by subtracting the modulo number from half of my frequency and aways taking the answer as a positive number. This gives me `height = Math.abs(50 - x%100)`.
+Next thing was making the waves symmetrical, this could be done by subtracting the modulo number from half of my frequency and aways taking the answer as a positive number. This gives me `height = Math.abs(50 - xPosition%100)`.
 
 <img src="/public/images/pointy.png"/>
 
-Sweet. Now just to get some variation, like the hills, because trees don't just magically float level, they are on something. For now I just add the mountain function to the ouput of the above and bam!
+Sweet. Now just to get some variation, like the hills, because trees don't just magically float level, they are on something. For now I just combine the spikes with the mountain function and bam!
 
 <img src="/public/images/trees.png"/>
 
@@ -89,7 +89,7 @@ And together with the mountains...
 
 <img src="/public/images/mountain_trees.png"/>
 
-And by the time I reached this point, Ian had already sent me another picture of a lovely mountain with low lying clouds.
+And by the time I reached this point, Ian had already sent me another picture of a mountain with lovely low lying clouds.
 
 So that was next, something fluffy to take away from the harsh pointy rigidity of the mountains and trees.
 
@@ -99,7 +99,7 @@ What is round and curvy?
 
 A SINE WAVE!
 
-`height = Math.sin(x)`
+`height = Math.sin(xPosition)`
 
 <img src="/public/images/sine_cloud.png"/>
 
@@ -111,7 +111,7 @@ Awesome!
 
 <img src="/public/images/fluff.png"/>
 
-And to add some variation I do the same that I did with the trees and pretend they are a mountain.
+And to add some variation I did the same that I did with the trees and pretended they were mountains.
 
 <img src="/public/images/final_clouds.png"/>
 
