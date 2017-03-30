@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Procedurally Generated Scenes
-date: 2017-02-15
+date: 2017-03-29
 tags: []
 tagline: Perlin noise is sooooo cool!
 description: Using Math to generated cool pictures
 ---
 
-This week I saw a totally bitchin' twitter bot that posts procedurally generated mountain skylines.
+This week I saw a totally rad twitter bot that posts procedurally generates mountain skylines.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">2.47345°N, 99.24996°E <a href="https://twitter.com/hashtag/generative?src=hash">#generative</a> <a href="https://twitter.com/hashtag/procedural?src=hash">#procedural</a> <a href="https://twitter.com/hashtag/paperjs?src=hash">#paperjs</a> <a href="https://t.co/wuFp32ye1h">pic.twitter.com/wuFp32ye1h</a></p>&mdash; muted mountains (@muted_mountains) <a href="https://twitter.com/muted_mountains/status/845908222389043201">March 26, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

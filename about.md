@@ -8,7 +8,7 @@ description: A little more information about your favourite Jono...
 
 <div class="timeline">
     <div class="timeline-experience">
-        <p>I am Jono. Web developer, game programmer, coffee addict... I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.</p>
+        <p>I am Jono. Full-stack web developer, game programmer, coffee addict... I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.</p>
     </div>
 </div>
 
@@ -68,6 +68,7 @@ description: A little more information about your favourite Jono...
         <li>Java</li>
         <li>HTML & CSS</li>
         <li>Javascript</li>
+        <li>Learning</li>
         <li>Oracle ATG Ecommerce</li>
         <li>Game Development</li>
         <li>Unity3D</li>
