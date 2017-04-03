@@ -414,6 +414,7 @@ a.sidebar-nav-item:focus {
 
 /* JS Tutorial */
 .icon{
+    min-width: 50px;
     width: 50px;
     border-radius: 50%;
     display: inline;
@@ -421,20 +422,23 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
     .icon{
+        min-width: 150px;
         width: 150px;
     }
 }
 
 .tutorial-summary{
-    display: flex;
+    display: table;
 }
 
 .tutorial-image{
-    flex-shrink: 0;
+    display: table-cell;
 }
 
 .tutorial-description{
     padding-left: 20px;
+    display: table-cell;
+    vertical-align:middle;
 }
 
 input {

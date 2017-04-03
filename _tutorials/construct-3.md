@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tutorial
 title: Construct 3
 date: 2017-04-02
 tags: []

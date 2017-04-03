@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tutorial
 title: Advanced Google
 date: 2017-02-12
 tags: []
