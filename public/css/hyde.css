@@ -441,6 +441,11 @@ a.sidebar-nav-item:focus {
     vertical-align:middle;
 }
 
+.rounded-image{
+    border: 2px black solid;
+    border-radius:5px;
+}
+
 input {
     padding: 8px 12px;
     border-radius: 3px;
