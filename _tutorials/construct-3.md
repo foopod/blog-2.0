@@ -210,4 +210,4 @@ Unfortunately there is no documentation for Construct3 right now. But pretty muc
 Here are some handy resources for you going forward...
 + The Construct2 Manual (<a href="https://www.scirra.com/manual/11/start-page" target="_blank">https://www.scirra.com/manual/11/start-page</a>)
 + Construct2 Tutorials (<a href="https://www.scirra.com/tutorials/top" target="_blank">https://www.scirra.com/tutorials/top</a>)
-+ Project Files for this tutorial (<a href="https://foopod.github.io/flygame/Fly%20&%20Apple" target="_blank">https://foopod.github.io/flygame/Fly%20&%20Apple</a>)
++ Project Files for this tutorial (<a href="https://foopod.github.io/flygame/Fly%20&%20Apple.c3p" target="_blank">https://foopod.github.io/flygame/Fly%20&%20Apple.c3p</a>)
