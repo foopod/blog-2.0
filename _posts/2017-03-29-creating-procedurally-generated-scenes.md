@@ -59,7 +59,7 @@ And bam! We have lovely looking mountains.
 
 I was pretty happy with this and started showing people. My friend Ian([@dentudim](https://twitter.com/dentudim)) was pretty impressed (obviously) and showed me this picture that he was reminded of (courtesy of [chrischernewych](http://chrischernewych.deviantart.com/)).
 
-<img src="http://pre10.deviantart.net/36a8/th/pre/i/2017/073/b/2/remote_location___framed_by_chrischernewych-db2c3ob.png">
+<img src="https://pre10.deviantart.net/36a8/th/pre/i/2017/073/b/2/remote_location___framed_by_chrischernewych-db2c3ob.png">
 
 Gorgeous! I wonder if I could make trees like that?
 
