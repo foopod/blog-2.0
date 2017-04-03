@@ -68,7 +68,7 @@ Now if you click on your new found character you will see the properties panel f
 
 <img class="rounded-image" src="/public/images/c3/4_properties.png" alt="An object's properties"/>
 
-You can also change any properties you want here, for example it's size or it's position.
+You can also change any properties you want here, for example its size or its position.
 
 If you ever want to know more about a property, just select it and a tip will appear at the bottom of the panel with more information about it.
 
