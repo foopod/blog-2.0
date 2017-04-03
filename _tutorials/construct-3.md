@@ -8,7 +8,7 @@ description: You can make games too with the new Construct 3 beta!
 image: /public/images/c3.png
 ---
 
-Welcome to Construct 3!
+Welcome to Construct 3! The third generation of an awesomely beginner friendly game engine.
 
 The massive advantage that Construct 3 has over Construct 2 is that it runs in your browser. This means you can update your game project from any internet connected device, you don't need to install a game engine.
 
