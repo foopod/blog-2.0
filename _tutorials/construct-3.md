@@ -12,7 +12,9 @@ Welcome to Construct 3! The third generation of an awesomely beginner friendly g
 
 The massive advantage that Construct 3 has over Construct 2 is that it runs in your browser. This means you can update your game project from any internet connected device, you don't need to install a game engine.
 
-Goals. What do we want to get out of this tutorial?
+## Goals
+
+What do we want to get out of this tutorial?
 
 + Starting a Project
 + Learning about layouts and event sheets
