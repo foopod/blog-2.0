@@ -190,7 +190,7 @@ Today we...
 + Made a Sprite with behaviours to move around
 + Learned how events work
 
-You can have a look at my game here (<a href="https://foopod.github.io/flygame/" target="_blank">ttps://foopod.github.io/flygame/</a>).
+You can have a look at my game here (<a href="https://foopod.github.io/flygame/" target="_blank">https://foopod.github.io/flygame/</a>).
 
 <div class="challengeContainer" markdown="1">
 {:.challengeTitle}
