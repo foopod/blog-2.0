@@ -18,6 +18,7 @@ description: A little more information about your favourite Jono...
                 <li>Can learn anything and looks for excuses to do so.</li>
             </ul>
         </div>
+        </div>
 </section>
 
 <section>
