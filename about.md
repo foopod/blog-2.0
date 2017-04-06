@@ -8,7 +8,7 @@ description: A little more information about your favourite Jono...
 
     <div class="timeline">
         <div class="timeline-experience">
-            <p>I am Jono. Full-stack web developer, agile coach, game programmer, coffee addict... I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.</p>
+            <p>I am Jono. Full-stack web developer, scrum master, game programmer, coffee addict... I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.</p>
 
             <ul>
                 <li>Scared of long term commitment (read as agile mindset).</li>
@@ -156,8 +156,3 @@ description: A little more information about your favourite Jono...
 </table>
 </section>
 
-
-<<<<<<< HEAD
-=======
-</div>
->>>>>>> 7290d22419c770925814115b4b58e1fa6e9fa95c
