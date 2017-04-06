@@ -11,7 +11,7 @@ description: A little more information about your favourite Jono...
         <p>I am Jono. Full-stack web developer, agile coach, game programmer, coffee addict... I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.</p>
         
         <ul>
-            <li>Scared of long term committment (read as agile mindset).</li>
+            <li>Scared of long term commitment (read as agile mindset).</li>
             <li>Known for enthusiasm even when it isn't called for.</li>
             <li>Adept at working in a convoluted codebase (read as loves deleting code).</li>
             <li>Confident in acheiving the impossible.</li>
