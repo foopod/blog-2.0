@@ -17,8 +17,10 @@ description: A little more information about your favourite Jono...
             <li>Confident in acheiving the impossible.</li>
             <li>Can learn anything and looks for excuses to do so.</li>
         </ul>
+
     </div>
 </div>
+
 
 
 <h1 class="portfolio-header">Experience</h1>
@@ -112,6 +114,4 @@ description: A little more information about your favourite Jono...
     </tbody>
 </table>
 
-
 </div>
-
