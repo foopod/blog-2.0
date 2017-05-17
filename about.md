@@ -1,76 +1,40 @@
 ---
-layout: full-width
+layout: default
 title: About
 description: A little more information about your favourite Jono...
 ---
-<section>
-    <h1 class="portfolio-header">About</h1>
+<div class="page">
+<h1 class="portfolio-header">About</h1>
 
-    <div class="timeline">
-        <div class="timeline-experience">
-            <p>I am Jono. Full-stack web developer, agile coach, game programmer, coffee addict... I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.</p>
+<div class="timeline">
+    <div class="timeline-experience">
+        <p>I am Jono. Full-stack web developer, agile coach, game programmer, coffee addict... I spend my days making small prototypes and junk, volunteering at my local codeclub and procrastinating.</p>
 
-            <ul>
-                <li>Scared of long term commitment (read as agile mindset).</li>
-                <li>Known for enthusiasm even when it isn't called for.</li>
-                <li>Adept at working in a convoluted codebase (read as loves deleting code).</li>
-                <li>Confident in acheiving the impossible.</li>
-                <li>Can learn anything and looks for excuses to do so.</li>
-            </ul>
-        </div>
-</section>
-
-<section>
-    <h1 class="portfolio-header">Personal Projects</h1>
-</section>
-
-<div class="project antithesis">
-    <div>
-        <p>Antithesis</p>
-        <a href="http://gamejolt.com/games/antithesis/208143">GameJolt</a>
+        <ul>
+            <li>Scared of long term commitment (read as agile mindset).</li>
+            <li>Known for enthusiasm even when it isn't called for.</li>
+            <li>Adept at working in a convoluted codebase (read as loves deleting code).</li>
+            <li>Confident in acheiving the impossible.</li>
+            <li>Can learn anything and looks for excuses to do so.</li>
+        </ul>
     </div>
 </div>
 
 
-<div class="project sunset">
-    <div>
-        <p>Sunset</p>
-        <a href="https://github.com/foopod/sunset/">Github</a>
-        <a href="https://foopod.github.io/sunset/">Demo</a>
+<h1 class="portfolio-header">Experience</h1>
+
+<div class="timeline">
+    <div class="timeline-date">
+        <div>now</div>
+        <div class="timeline-marker"><i class="fa fa-long-arrow-up" aria-hidden="true"></i></div>
+        <div>2015</div>
+    </div>
+    <div class="timeline-experience">
+        <div class="timeline-employer">Vodafone New Zealand</div>
+        <div class="timeline-role">Agile Developer</div>
+        <div class="timeline-description">After one year in their graduate programme I was able to land a permanent role in an agile squad working in ecommerce enhancement with a Java based Oracle stack. My experience largely started off in back end development, but in my time I have picked up front end, automation testing and devops skills.</div>
     </div>
 </div>
-
-<div class="project lockedaway">
-    <div>
-        <p>LockedAway</p>
-        <a href="https://github.com/foopod/locked-away">Github</a>
-        <a href="http://borrowed.pw/locked-awayhttps://github.com/foopod/locked-away">Demo</a>
-    </div>
-</div>
-
-<div class="project homage">
-    <div>
-        <p>Homage</p>
-        <a href="https://play.google.com/store/apps/details?id=com.foopod.homage">Android</a>
-        <a href="https://itunes.apple.com/nz/app/homage/id1099570209">iOS</a>
-    </div>
-</div>
-
-<section>
-    <h1 class="portfolio-header">Experience</h1>
-
-    <div class="timeline">
-        <div class="timeline-date">
-            <div>now</div>
-            <div class="timeline-marker"><i class="fa fa-long-arrow-up" aria-hidden="true"></i></div>
-            <div>2015</div>
-        </div>
-        <div class="timeline-experience">
-            <div class="timeline-employer">Vodafone New Zealand</div>
-            <div class="timeline-role">Agile Developer</div>
-            <div class="timeline-description">After one year in their graduate programme I was able to land a permanent role in an agile squad working in ecommerce enhancement with a Java based Oracle stack. My experience largely started off in back end development, but in my time I have picked up front end, automation testing and devops skills.</div>
-        </div>
-    </div>
 
 <div class="timeline">
     <div class="timeline-date">
@@ -97,9 +61,7 @@ description: A little more information about your favourite Jono...
         <div class="timeline-description">Before and while studying I worked in retail at Dick Smith Electronics. This experience was invaluable to me as it gave me the confidence and communication skills that I use daily, it also provided a great deal of insight into an array of Technology.</div>
     </div>
 </div>
-</section>
 
-<section>
 <h1 class="portfolio-header">Education</h1>
 <div class="timeline">
     <div class="timeline-experience">
@@ -108,9 +70,7 @@ description: A little more information about your favourite Jono...
         <div class="timeline-description">My degree covered papers such as data structures, algorithm design and analysis, distributed systems and game programming. For my final year project I researched and reproduced accurate physical simulations in Unity3D.</div>
     </div>
 </div>
-</section>
 
-<section>
 <h1 class="portfolio-header">Skills</h1>
 <div id="skills">
     <ul>
@@ -122,14 +82,11 @@ description: A little more information about your favourite Jono...
         <li>Game Development</li>
         <li>Unity3D</li>
         <li>SQL</li>
-        <li>Procedural Generation</li>
         <li>Agile with Scrum</li>
         <li>Test Automation</li>
         <li>Continuous Integration</li>
     </ul>
 </div>
-</section>
-<section>
 
 <h1 class="portfolio-header">Contact</h1>
 <table id="contact">
@@ -154,10 +111,7 @@ description: A little more information about your favourite Jono...
     </tr>
     </tbody>
 </table>
-</section>
 
 
-<<<<<<< HEAD
-=======
 </div>
->>>>>>> 7290d22419c770925814115b4b58e1fa6e9fa95c
+

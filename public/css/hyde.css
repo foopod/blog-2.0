@@ -34,85 +34,6 @@
     margin: 10px auto;   
 }
 
-section{
-    padding:2em 4em 1em 4em;
-}
-
-section a{
-    color:black;
-}
-
-section:nth-child(even) {
-/*    background: #e60000;*/
-/*    color:black;*/
-    background: #b6d5f0;
-}
-
-section:nth-child(2){
-/*    background: #e60000;*/
-/*    color:black;*/
-    background: #b6d5f0;
-}
-
-.project{
-    background-position:  center center;
-    height: 300px;
-    background-size: cover;
-}
-
-.project a{
-    padding:10px;
-    border:1px solid #333333;
-    border-radius:30px;
-    margin:10px;
-    color:#333333;
-    background:white;
-}
-
-.project p{
-    color:white;
-    font-size:2em;
-}
-
-.project div{
-    position:relative;
-    top:30%; 
-/*    left:50%;   */
-    text-align:center;
-}
-
-.project.sunset{
-    background-image : url("/public/images/portfolio_sunset.png");
-}
-
-.project.antithesis{
-    background-image : url("/public/images/portfolio_antithesis.png");
-}
-
-.project.lockedaway{
-    background-image : url("/public/images/portfolio_lockedaway.png");
-}
-
-.project.homage{
-    background-image : url("/public/images/portfolio_homage1.png");
-}
-
-.project.lockedaway p{
-    color:white;
-/*    background:black;*/
-}
-/*
-section:nth-child(3) {
-    background: teal;
-}
-section:nth-child(4) {
-    background: #E60000;
-}
-section:nth-child(5) {
-    background: #EB5160;
-}
-*/
-
 /*
  * Global resets
  *
@@ -126,9 +47,6 @@ html {
   html {
     font-size: 16px;
   }
-    .full-width {
-        margin-left: 18rem;
-    }
 }
 @media (min-width: 58em) {
   html {
@@ -420,6 +338,7 @@ a.sidebar-nav-item:focus {
 
 .timeline{
     display:table;
+    margin-bottom:20px;
 }
 
 .timeline-date{
@@ -447,7 +366,6 @@ a.sidebar-nav-item:focus {
 
 .timeline-description{
     font-size:16px;
-    margin-bottom:30px;
 }
 
 .timeline-marker{
@@ -482,11 +400,7 @@ a.sidebar-nav-item:focus {
 
 #contact td{
     border:none;
-    background-color:rgba(0,0,0,0);
-}
-
-#contact tbody tr td{
-    background-color:rgba(0,0,0,0);
+    background-color:white;
 }
 
 #contact i{
