@@ -58,7 +58,7 @@ description: A little more information about your favourite Jono...
         <div>2009</div>
     </div>
     <div class="timeline-experience">
-        <div class="timeline-employer">Dick Smiths</div>
+        <div class="timeline-employer">Dick Smith</div>
         <div class="timeline-role">Sales Representative</div>
         <div class="timeline-description">Before and while studying I worked in retail at Dick Smith Electronics. This experience was invaluable to me as it gave me the confidence and communication skills that I use daily, it also provided a great deal of insight into an array of Technology.</div>
     </div>
