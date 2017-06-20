@@ -27,7 +27,7 @@ Just click the **New Repository** button on github or follow [this link](https:/
 
 I called my repository `site`, you can name yours whatever you want, but when I refer to `site` going forward you will have to keep this in mind.
 
-Also be sure to tick the box for 'Initialize this Repository with a README'. We do this so we can start using the repo right away.
+Also be sure to tick the box for 'Initialize this Repository with a README'. This is so we can **Create a new file**.
 
 ## Adding some content
 
