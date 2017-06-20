@@ -19,7 +19,7 @@ What do we want to get out of this tutorial?
 
 ## Getting started
 
-First thing we need to go and sign up at [Github](http://github.com/).
+First thing we need to go and sign up at <a target="_blank" href="http://github.com/">Github</a>.
 
 Once you have done that we will make our first repository (repo). A repo is kind of like a magic folder that lets us track when things were added to it.
 
