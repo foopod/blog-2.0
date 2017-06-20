@@ -33,7 +33,7 @@ Also be sure to tick the box for 'Initialize this Repository with a README'. Thi
 
 That was easy, now we have an empty repo, well except for that README.
 
-The first thing we are going to do now is add an html file that will be the first iteration of our website.
+The first thing we are going to do now is add an html file that will be the first part of our website.
 
 To do this click the **Create new file** button. Up the top you can name the file and for our website to work properly this homepage of your website must be called `index.html`. Easy.
 
@@ -56,7 +56,7 @@ Now you can scroll to the bottom and click **Commit new file**.
 
 This last step is super simple. We are just going to enable the Github Pages feature on our repository.
 
-To do this, go to the settings tab of your repo and in the options find the section for Github Pages.
+To do this, go to the **settings** tab of your repo and in the options find the section for Github Pages.
 
 Next just change the source from **None** to **master branch**.
 
