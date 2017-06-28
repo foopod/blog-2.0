@@ -14,7 +14,7 @@ description: A little more information about your favourite Jono...
             <li>Scared of long term commitment (read as agile mindset).</li>
             <li>Known for enthusiasm even when it isn't called for.</li>
             <li>Adept at working in a convoluted codebase (read as loves deleting code).</li>
-            <li>Confident in acheiving the impossible.</li>
+            <li>Confident in achieving the impossible.</li>
             <li>Can learn anything and looks for excuses to do so.</li>
         </ul>
 
