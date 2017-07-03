@@ -29,7 +29,7 @@ Right now we are in a time of rapid change and crazy growth. There was a lot of 
 
 Nikki's ILE guides students to pick up skills like autonomy, but Nick Pattison at Kauri Flats School takes it one step further. The students at Kauri Flats turn their learning objectives into projects and work closely with the community to see it through. The students use design thinking to work with their customer in the community and iterate to make something that can add value.
 
-These students learn to empathise and define their customers needs, then put those insights to use ideating, protoyping and testing ideas. Teaching kids that you can't expect to get it right on the first try and that every failure is a success in learning are crucial lessons that they are taught not by a teacher, but through their experiences. Practical knowledge of Stanford's Design Thinking tools and processes is highly sort after in the job market today and these kids half my age have a better looking CV that me.
+These students learn to empathise and define their customers needs, then put those insights to use ideating, protoyping and testing ideas. Teaching kids that you can't expect to get it right on the first try and that every failure is a success in learning are crucial lessons that they are taught not by a teacher, but through their experiences. Practical knowledge of Stanford's Design Thinking tools and processes is highly sort after in the job market today and these kids half my age have a better looking CV than me.
 
 <img src="/public/images/edutech2.jpg"/>
 
