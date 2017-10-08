@@ -11,3 +11,5 @@ description: Jono learns something new everyday, this is proof
 **6/10/2017** ... that Anathema is "something or someone that one vehemently dislikes".
 
 **7/10/2017** ... to draw lineart from a photograph ([link](https://www.instagram.com/p/BZ7xq28hxEk/))
+
+**8/10/2017** ... that the acting in Pacific Rim is actually really bad.
