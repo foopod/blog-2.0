@@ -13,3 +13,5 @@ description: Jono learns something new everyday, this is proof
 **7/10/2017** ... to draw lineart from a photograph ([link](https://www.instagram.com/p/BZ7xq28hxEk/))
 
 **8/10/2017** ... that the acting in Pacific Rim is actually really bad.
+
+**9/10/2017** ... a bit about how pipelines and junk work in Jenkins. Also Groovy. Yep.
