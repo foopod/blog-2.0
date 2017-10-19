@@ -19,6 +19,6 @@ Small steps and iterate I guess...
 
 I am starting with an online form that I can respond to, I can also post the answer that I give people on my website.
 
-https://ask.jonoshields.com/
+[ask.jonoshields.com](https://ask.jonoshields.com/)
 
 Are you a mentor or a mentee? What do you think matters most in this relationship?
