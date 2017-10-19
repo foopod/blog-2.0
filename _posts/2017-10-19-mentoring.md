@@ -7,7 +7,7 @@ tagline: What does it mean to be a mentor?
 description: What does it mean to be a mentor? What skills do you need? What would a mentorship service look like?
 ---
 
-Recently I helped out the company that I work for run a Coding Course for Girls. It was hella fun and I really enjoyed it. I love being able to share my passion for coding with others, it's especially exciting being able to give them their first taste of it.
+Recently I facilitated a Coding Course for Girls. It was hella fun and I really enjoyed it. I love being able to share my passion for coding with others, it's especially exciting being able to give them their first taste of it.
 
 One of the students came to me afterwards, they wanted to stay in touch so that they could ask questions and such.
 
