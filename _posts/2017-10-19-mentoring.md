@@ -11,7 +11,7 @@ Recently I facilitated a Coding Course for Girls. It was hella fun and I really 
 
 One of the students came to me afterwards, they wanted to stay in touch so that they could ask questions and such.
 
-I have been thinking back to some of my mentors over the years. What impacted me most wasn't what they said but the way they said it. What struct a chord with me was the way that they acted and the way that they held themselves. It was this very personal aspect that helped to build the relationship and helped me grow.
+I have been thinking back to some of my mentors over the years. What impacted me most wasn't what they said but the way they said it. What struck a chord with me was the way that they acted and the way that they held themselves. It was this very personal aspect that helped to build the relationship and helped me grow.
 
 I want to be able to help people and answer their questions remotely, but I don't want to lose out the parts of the interaction that make it personal and memorable.
 
