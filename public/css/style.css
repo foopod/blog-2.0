@@ -595,7 +595,9 @@ input, textarea {
     border: black solid 1px;
     margin-right: 5px;
     resize: none;
-    margin-bottom: 1.2em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-size: 0.8rem;
 }
 
 button {
