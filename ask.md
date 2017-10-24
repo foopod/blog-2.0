@@ -11,7 +11,7 @@ description: Ask Jono a question
 <p class="message" style="overflow:hidden">
   Feel free to ask Jono anything you want! Having a tough time with a coding problem? Want to know what I think about X or Y? 
 </p>
-  <form style="max-width:30em;margin:auto;padding:1em;" class="form-horizontal" netlify name="Ask Jono" action="/thanks" method="POST">
+  <form style="max-width:30em;margin:auto;padding:1em;" class="form-horizontal" netlify name="Ask Jono" action="/" method="POST">
     <fieldset>
     <label for="name">Name</label>
     <input id="name" class="full-width" name="name" type="text" placeholder="Your name">
