@@ -21,62 +21,6 @@ description: A little more information about your favourite Jono...
     </div>
 </div>
 
-
-
-<h1 class="portfolio-header">Experience</h1>
-
-<div class="timeline">
-    <div class="timeline-date">
-        <div>now</div>
-        <div class="timeline-marker"><i class="fa fa-long-arrow-up" aria-hidden="true"></i></div>
-        <div>2017</div>
-    </div>
-    <div class="timeline-experience">
-        <div class="timeline-employer">Vodafone New Zealand</div>
-        <div class="timeline-role">Agile Coach</div>
-        <div class="timeline-description">Now I work with our Scrum Masters to help them do their thing better. I also educate, promote and encourage the adoption of Agile practices and mindset throughout the business.</div>
-    </div>
-</div>
-
-<div class="timeline">
-    <div class="timeline-date">
-        <div>2017</div>
-        <div class="timeline-marker"><i class="fa fa-long-arrow-up" aria-hidden="true"></i></div>
-        <div>2015</div>
-    </div>
-    <div class="timeline-experience">
-        <div class="timeline-employer">Vodafone New Zealand</div>
-        <div class="timeline-role">Agile Developer</div>
-        <div class="timeline-description">After a year in their graduate programme I was able to land a permanent role in an agile squad working in ecommerce enhancement with a Java based Oracle stack. My experience largely started off in back end development, but in my time I have picked up front end, automation testing and devops skills.</div>
-    </div>
-</div>
-
-<div class="timeline">
-    <div class="timeline-date">
-        <div>2015</div>
-        <div class="timeline-marker"><i class="fa fa-long-arrow-up" aria-hidden="true"></i></div>
-        <div>2014</div>
-    </div>
-    <div class="timeline-experience">
-        <div class="timeline-employer">Vodafone New Zealand</div>
-        <div class="timeline-role">Technology Graduate</div>
-        <div class="timeline-description">In the Vodafone graduate programme I had the opportunity to explore multiple potential fields. This allowed me to try project management, voice and data operations, security operations and system integration.</div>
-    </div>
-</div>
-
-<div class="timeline">
-    <div class="timeline-date">
-        <div>2014</div>
-        <div class="timeline-marker"><i class="fa fa-long-arrow-up" aria-hidden="true"></i></div>
-        <div>2009</div>
-    </div>
-    <div class="timeline-experience">
-        <div class="timeline-employer">Dick Smith</div>
-        <div class="timeline-role">Sales Representative</div>
-        <div class="timeline-description">Before and while studying I worked in retail at Dick Smith Electronics. This experience was invaluable to me as it gave me the confidence and communication skills that I use daily, it also provided a great deal of insight into an array of Technology.</div>
-    </div>
-</div>
-
 <h1 class="portfolio-header">Education</h1>
 <div class="timeline">
     <div class="timeline-experience">
