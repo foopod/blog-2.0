@@ -441,8 +441,9 @@
     overflow: hidden;
 }
 
-#site-title{
+#site-title a{
     font-size:4rem;
+    color: #303030;
 }
 
 #tagline{
