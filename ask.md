@@ -4,13 +4,9 @@ title: Ask
 description: Ask Jono a question
 ---
 
-<style>
 
-</style>
+  A mentor to some, a mentee to others. Do you need help with something? Maybe you want to offer advice? Let me know below..
 
-<p class="message" style="overflow:hidden">
-  Feel free to ask Jono anything you want! Having a tough time with a coding problem? Want to know what I think about X or Y? 
-</p>
   <form style="max-width:30em;margin:auto;padding:1em;" class="form-horizontal" netlify name="Ask Jono" action="/" method="POST">
     <fieldset>
     <label for="name">Name</label>
