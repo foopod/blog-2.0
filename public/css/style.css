@@ -35,6 +35,28 @@
  * Update the foundational and global aspects of the page.
  */
 
+
+ html, body, div, span, applet, object, iframe,
+ h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+ a, abbr, acronym, address, big, cite, code,
+ del, dfn, em, img, ins, kbd, q, s, samp,
+ small, strike, strong, sub, sup, tt, var,
+ b, u, i, center,
+ dl, dt, dd, ol, ul, li,
+ fieldset, form, label, legend,
+ table, caption, tbody, tfoot, thead, tr, th, td,
+ article, aside, canvas, details, embed, 
+ figure, figcaption, footer, header, hgroup, 
+ menu, nav, output, ruby, section, summary,
+ time, mark, audio, video {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   font-size: 100%;
+   font: inherit;
+   vertical-align: baseline;
+ }
+
  * {
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
@@ -121,6 +143,7 @@
   ul, ol, dl {
     margin-top: 0;
     margin-bottom: 1rem;
+    padding-left: 1.5em;
   }
   
   dt {
@@ -239,7 +262,7 @@
   
   /* Tables */
   table {
-    margin-bottom: 1rem;
+    padding-bottom: 1rem;
     width: 100%;
     border: 1px solid #e5e5e5;
     border-collapse: collapse;
@@ -290,8 +313,8 @@
   
   .container {
     max-width: 38rem;
-    padding-left:  1rem;
-    padding-right: 1rem;
+    padding-left:  1.5rem;
+    padding-right: 1.5rem;
     margin-left:  auto;
     margin-right: auto;
   }
@@ -333,7 +356,7 @@
   
   .page,
   .post {
-    margin-bottom: 2em;
+    padding-bottom: 2em;
   }
   
   /* Blog post or page title */
@@ -441,15 +464,30 @@
     overflow: hidden;
 }
 
+#site-title{
+  text-align: center;
+  letter-spacing: -3px;
+}
+
 #site-title a{
-    font-size:4rem;
-    color: #303030;
+  font-size:2.4rem;
+  color: #303030;
 }
 
 #tagline{
-    margin-top: -1rem;
-    text-align: right;
-    padding-right: 20%;
+    text-align: center;
+    margin-top: 0.3em;
+    margin-bottom: 1em;
+}
+
+@media (min-width: 48em) {
+  #site-title a{
+      font-size:4rem;
+      letter-spacing: -6px;
+  }
+  #tagline{
+    font-size: 1.5rem;
+  }
 }
 
 nav a{
@@ -458,7 +496,20 @@ nav a{
 }
 
 nav{
-    margin-bottom:2rem; 
+    text-align: center;
+}
+
+.active{
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.text-right{
+  text-align: right;
+}
+
+.full-width{
+  width: 100%;
 }
 
 /* About */
@@ -497,6 +548,11 @@ nav{
   text-align:center;
 }
 
+#main-content{
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
 /* End About */
 
 /* JS Tutorial */
@@ -533,11 +589,13 @@ nav{
     border-radius:5px;
 }
 
-input {
+input, textarea {
     padding: 8px 12px;
     border-radius: 3px;
     border: black solid 1px;
     margin-right: 5px;
+    resize: none;
+    margin-bottom: 1.2em;
 }
 
 button {
@@ -585,3 +643,7 @@ button {
 }
 
 /* End JS Tutorial */
+
+label{
+  font-family: 'Work Sans', sans-serif;
+}
