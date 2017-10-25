@@ -472,6 +472,7 @@
 #site-title a{
   font-size:2.4rem;
   color: #303030;
+  vertical-align: middle;
 }
 
 #tagline{
