@@ -7,6 +7,12 @@ description: Ask Jono a question
 
   A mentor to some, a mentee to others. Do you need help with something? Maybe you want to offer advice? Let me know below..
 
+<script>
+       function more(){
+          document.getElementById("personal").style.display = "block";
+          document.getElementById("more-personal").style.display = "none";
+       }
+    </script>
   <form style="max-width:30em;margin:auto;padding:1em;" class="form-horizontal" netlify name="Ask Jono" action="/" method="POST">
     <fieldset>
 
@@ -32,10 +38,3 @@ description: Ask Jono a question
     </div>
     </fieldset>
     </form>
-    
-    <script>
-       function more(){
-          document.getElementById("personal").style.display = "block";
-          document.getElementById("more-personal").style.display = "none";
-       }
-    </script>
