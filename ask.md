@@ -22,7 +22,7 @@ description: Ask Jono a question
     </div>
     
     <div id="more-personal" class="text-right">
-    <a href="#"onclick="more()">Want me to get back to you?</a>
+      <a href="#"onclick="more()">Want me to get back to you?</a>
     </div>
     
     <div id="personal" style="display:none;">
