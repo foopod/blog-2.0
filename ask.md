@@ -21,9 +21,7 @@ description: Ask Jono a question
     <textarea class="full-width" required id="message" name="message" placeholder="Please enter your question here..." rows="5"></textarea>
     </div>
     
-    <div id="more-personal" class="text-right">
-      <a href="#"onclick="more()">Want me to get back to you?</a>
-    </div>
+    <div id="more-personal" class="text-right"><a href="#"onclick="more()">Want me to get back to you?</a></div>
     
     <div id="personal" style="display:none;">
       <label for="name">Name</label>
