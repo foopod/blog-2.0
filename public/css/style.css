@@ -727,3 +727,8 @@ label{
 #dark pre, #dark code{
   background-color: #222222;
 }
+
+#dark input, #dark textarea{
+  color:#fff;
+  background: #333;
+}
