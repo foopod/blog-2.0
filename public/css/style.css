@@ -681,28 +681,47 @@ label{
 }
 
 /** Dark Mode **/
-/* 
-body{
+#darkmode-icon{
+  font-size: 30px;
+  position: absolute;
+  top:10px;
+  left:10px;
+  z-index: 10;
+  color:#fff;
+}
+
+#dark #darkmode-icon{
+  color:black;
+}
+
+#darkmode-backdrop{
+  position: absolute;
+  top:0px;
+  left:0px;
+  width: 0; height: 0; border-top: 80px solid black; border-right: 80px solid transparent;
+}
+
+#dark #darkmode-backdrop{
+  border-top: 100px solid #fff;
+}
+
+#dark body{
   background-color: #000;
   color:#CCC;
 }
 
-#site-title a,nav a,h1, h2, h3, h4, h5, h6,.page-title, .post-title, .post-title a{
+#dark #site-title a,#dark nav a,#dark h1, #dark h2, #dark h3, #dark h4, #dark h5, #dark h6,#dark .page-title, #dark .post-title, #dark .post-title a{
   color:#EEE;
 }
 
-#layout, #layout header {
+#dark #layout, #dark #layout header {
   color:#CCC;
 }
 
-strong{
+#dark strong{
   color:#fff;
 }
 
-pre, code{
+#dark pre, #dark code{
   background-color: #222222;
 }
-
-.tab-conversation.active .comment-count{
-  color:#EEE !important;
-} */

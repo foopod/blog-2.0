@@ -1,4 +1,17 @@
-
+<div onclick="toggleDark()">
+    <div  id="darkmode-backdrop"></div>
+    <i id="darkmode-icon" class="fa fa-lightbulb-o" aria-hidden="true"></i>    
+</div>
+<script>
+    function toggleDark(){
+        var html = document.getElementById("dark");
+        if(html){
+            html.removeAttribute("id");
+        }else {
+            document.getElementsByTagName("HTML")[0].setAttribute("id", "dark");
+        }
+    }
+</script>
 <h1 id="site-title"><i style="font-size:0.8em;vertical-align: middle;padding-right:10px;color:#e72264" class="fa fa-step-forward" aria-hidden="true"></i> <a href="/">{{site.title}}</a></h1>
 <nav>
     <a href="#main-content" class="screen-reader-text">Skip Navigation</a>
