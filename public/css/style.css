@@ -682,9 +682,9 @@ label{
 
 /** Dark Mode **/
 #darkmode-icon{
-  font-size: 20px;
+  font-size: 26px;
   position: absolute;
-  top:6px;
+  top:3px;
   left:6px;
   z-index: 10;
   color:#fff;
