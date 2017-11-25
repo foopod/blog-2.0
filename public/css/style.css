@@ -682,10 +682,10 @@ label{
 
 /** Dark Mode **/
 #darkmode-icon{
-  font-size: 30px;
+  font-size: 20px;
   position: absolute;
-  top:10px;
-  left:10px;
+  top:6px;
+  left:6px;
   z-index: 10;
   color:#fff;
 }
@@ -698,11 +698,11 @@ label{
   position: absolute;
   top:0px;
   left:0px;
-  width: 0; height: 0; border-top: 80px solid black; border-right: 80px solid transparent;
+  width: 0; height: 0; border-top: 50px solid black; border-right: 50px solid transparent;
 }
 
 #dark #darkmode-backdrop{
-  border-top: 100px solid #fff;
+  border-top: 50px solid #fff;
 }
 
 #dark body{
