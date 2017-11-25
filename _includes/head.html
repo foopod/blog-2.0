@@ -34,4 +34,21 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-PVZZRG5');</script>
     <!-- End Google Tag Manager -->
+
+    <!-- Dark Mode Toggle -->
+    <script>
+    if(localStorage.getItem("dark")){
+        document.getElementsByTagName("HTML")[0].setAttribute("id", "dark");
+    }
+    function toggleDark(){
+        var html = document.getElementById("dark");
+        if(html){
+            html.removeAttribute("id");
+            localStorage.removeItem("dark");
+        }else {
+            document.getElementsByTagName("HTML")[0].setAttribute("id", "dark");
+            localStorage.setItem('dark', 'yep');
+        }
+    }
+    </script>
 </head>

@@ -501,8 +501,9 @@ nav a{
 nav a {
   position: relative;
   color: #333;
+  border-bottom: 1px solid #268bd2;
 }
-nav a:after {
+/* nav a:after {
   position: absolute;
   left: 0%;
   top: 0%;
@@ -515,10 +516,10 @@ nav a:after {
 }
 nav a:hover:after {
   transform: scale(1);
-}
+} */
 nav a:hover{
   text-decoration: none;
-}
+} 
 
 nav{
     text-align: center;
@@ -526,7 +527,8 @@ nav{
 
 .active{
   font-weight: 900;
-  font-size: 1.5rem;
+  /* border-bottom: 3px solid #268bd2; */
+  border-bottom: 3px solid #268bd2;
 }
 
 .text-right{
@@ -555,7 +557,7 @@ nav{
 }
 
 #contact{
-  font-family:Work Sans;
+  font-family:Open Sans;
   border:none;
 }
 
