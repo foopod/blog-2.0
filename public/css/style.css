@@ -70,7 +70,7 @@
   }
   
   html {
-    font-family: 'Quattrocento', serif;
+    font-family: 'Open Sans', serif;
     font-size: 16px;
     line-height: 1.5;
   }
@@ -492,8 +492,32 @@
 }
 
 nav a{
-    padding-right: 20px;
-    text-decoration: underline;
+    padding: 0 5px 0 5px;
+    margin: 0 10px 0 10px;
+    text-decoration: none;
+    /* border-bottom: 1px solid #268bd2; */
+}
+
+nav a {
+  position: relative;
+  color: #333;
+}
+nav a:after {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  content: '';
+  height: 100%;
+  transition: all 0.2s linear;
+  width: 100%;
+  border-bottom: 3px solid #268bd2;
+  transform: scaleX(0);
+}
+nav a:hover:after {
+  transform: scale(1);
+}
+nav a:hover{
+  text-decoration: none;
 }
 
 nav{
@@ -655,3 +679,30 @@ button {
 label{
   font-family: 'Work Sans', sans-serif;
 }
+
+/** Dark Mode **/
+/* 
+body{
+  background-color: #000;
+  color:#CCC;
+}
+
+#site-title a,nav a,h1, h2, h3, h4, h5, h6,.page-title, .post-title, .post-title a{
+  color:#EEE;
+}
+
+#layout, #layout header {
+  color:#CCC;
+}
+
+strong{
+  color:#fff;
+}
+
+pre, code{
+  background-color: #222222;
+}
+
+.tab-conversation.active .comment-count{
+  color:#EEE !important;
+} */
