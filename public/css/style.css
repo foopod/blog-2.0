@@ -732,3 +732,7 @@ label{
   color:#fff;
   background: #333;
 }
+
+#dark .challengeTitle{
+  color:black;
+}
