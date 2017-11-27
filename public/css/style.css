@@ -71,12 +71,12 @@
   
   html {
     font-family: 'Open Sans', serif;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.5;
   }
-  @media (min-width: 38em) {
+  @media (min-width: 34em) {
     html {
-      font-size: 20px;
+      font-size: 22px;
     }
   }
   
@@ -109,7 +109,6 @@
     line-height: 1.25;
     color: #313131;
     text-rendering: optimizeLegibility;
-  font-family: 'Work Sans', sans-serif;
   }
   h1 {
     font-size: 2rem;
@@ -126,6 +125,10 @@
     margin-top: 1rem;
     font-size: 1rem;
   }
+
+  em{
+    font-style: italic;
+  }
   
   /* Body text */
   p {
@@ -135,7 +138,7 @@
   
   strong {
     color: #303030;
-    font-size: 115%;
+    font-weight: bold;
   }
   
   
@@ -312,7 +315,7 @@
    */
   
   .container {
-    max-width: 38rem;
+    max-width: 32rem;
     padding-left:  1.5rem;
     padding-right: 1.5rem;
     margin-left:  auto;
@@ -470,7 +473,7 @@
 }
 
 #site-title a{
-  font-size:2.4rem;
+  font-size:2.6rem;
   color: #303030;
   vertical-align: middle;
 }
@@ -493,7 +496,7 @@
 
 nav a{
     padding: 0 5px 0 5px;
-    margin: 0 10px 0 10px;
+    margin: 0 5px 0 5px;
     text-decoration: none;
     /* border-bottom: 1px solid #268bd2; */
 }
@@ -501,7 +504,7 @@ nav a{
 nav a {
   position: relative;
   color: #333;
-  border-bottom: 1px solid #268bd2;
+  /* border-bottom: 1px solid #268bd2; */
 }
 /* nav a:after {
   position: absolute;
@@ -518,7 +521,8 @@ nav a:hover:after {
   transform: scale(1);
 } */
 nav a:hover{
-  text-decoration: none;
+  position: relative;
+  top:-2px;
 } 
 
 nav{
@@ -682,6 +686,14 @@ label{
   font-family: 'Work Sans', sans-serif;
 }
 
+#tagline a i{
+  padding: 0px 10px 0px 10px; 
+}
+
+#tagline a i:hover{
+  transform: scale(1.2);
+}
+
 /** Dark Mode **/
 #darkmode-icon{
   font-size: 26px;
@@ -692,15 +704,19 @@ label{
   color:#fff;
 }
 
+#darkmode-icon:hover{
+  transform: scale(1.2);
+}
+
 #dark #darkmode-icon{
-  color:black;
+  color:#111;
 }
 
 #darkmode-backdrop{
   position: absolute;
   top:0px;
   left:0px;
-  width: 0; height: 0; border-top: 50px solid black; border-right: 50px solid transparent;
+  width: 0; height: 0; border-top: 50px solid #111; border-right: 50px solid transparent;
 }
 
 #dark #darkmode-backdrop{
@@ -734,5 +750,5 @@ label{
 }
 
 #dark .challengeTitle{
-  color:black;
+  color:#111;
 }

@@ -24,6 +24,8 @@ logo : /public/icon.png
 collections:
   tutorials:
     output: true
+  books:
+    output: true
   
 gems: ['jekyll-paginate-v2', 'jekyll-seo-tag', 'jekyll-sitemap']
 

@@ -1,0 +1,17 @@
+---
+layout: default
+title: Books
+description: Books that I have read and want to keep a reference
+---
+
+<div class="posts">
+    {% for book in site.books reversed %}
+    <h1 class="post-title">
+      <a href="{{ book.url }}">
+        {{ book.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">by {{ book.author}}</span>
+  {% endfor %}
+</div>
