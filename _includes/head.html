@@ -24,7 +24,8 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
     
-  <meta name="author" content="Jono Shields">
+    <meta name="author" content="Jono Shields">
+    {% if page.url contains 'books'  %} <meta name="robots" content="noindex,nofollow>{% endif %}
     {% seo %}
     
     <!-- Google Tag Manager -->
