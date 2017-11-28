@@ -166,7 +166,7 @@ The 70/20/10 describes how we learn. 70% is through doing (learning on the job),
 
 ### 1.5.1. Dewey's Experiential learning model
 
-experience concretely -> observe and reflect -> form abstract concepts -> test implications of concepts
+experience concretely > observe and reflect > form abstract concepts > test implications of concepts
 
 It is important to know that different people prefer individual steps and will linger in an area of comfort.
 
