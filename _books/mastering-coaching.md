@@ -156,4 +156,28 @@ Others suggest that it is easier to get into a state of flow when you are invest
 
 *Acts of kindness* - Perform three acts of kindness and write about them and their outcomes.
 
-## 1.4. Minfulness
+## 1.4. Mindfulness
+
+The psychological state of calm awareness of the present moment. Mindfulness helps to reduce stress, think clearly, help focus and benefits overall wellbeing. Meditation is a common practice to promote mindfulness, but there are other techniques too.
+
+## 1.5. Experiential Learning
+
+The 70/20/10 describes how we learn. 70% is through doing (learning on the job), 20% is through other people (colleagues and mentors) and 10% is through written and formal training.
+
+### 1.5.1. Dewey's Experiential learning model
+
+experience concretely -> observe and reflect -> form abstract concepts -> test implications of concepts
+
+It is important to know that different people prefer individual steps and will linger in an area of comfort.
+
+### 1.5.2. Learning Styles
+
+Activists learn by doings. They like to be hands on and in the thick of it. The best ways for them to learn are brainstorming, problem-solving, group discussion, puzzles, competitions and role-play.
+
+Theorists are the opposite. They are systematic in learning the theory behind eveything. They prefer to analyse and synthesize. The best ways for them to learn are models, statistics, stories, quotes, background information and applying theories.
+
+Pragmatists need to see how learning can be put into action. Abstract ideas bounce off. The best ways for them to learn are problem-solving, case studies and discussion.
+
+Reflectors like to watch, they learn by observing. The best ways for them to learn are paired discussions, self-analysis, questionnaires, time out, observing activities, feedback from others, coaching and interviews.
+
+
