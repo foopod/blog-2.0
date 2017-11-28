@@ -180,4 +180,39 @@ Pragmatists need to see how learning can be put into action. Abstract ideas boun
 
 Reflectors like to watch, they learn by observing. The best ways for them to learn are paired discussions, self-analysis, questionnaires, time out, observing activities, feedback from others, coaching and interviews.
 
+# 2. Strategies
 
+## 2.1. Expert Performance
+
+What is expert performance in your area? Defining what it looks like is an excellent way to set goals.
+
+### 2.1.1 Schemata
+
+Map the domain. Experts have templates that they use to represent their domain. These can be used to rapidly discern observations and can easily be applied in a number of different situations. Schemata make it easy to respond to quickly in certain situations. Imagine firefighting or nursing, the response is instant. But obviously this has pros and cons.
+
+### 2.1.2. Chunking
+
+To easier understand and store your domain you can break it down. It is really hard for humans to store large detailed processes and situations. It is found that experts have usually chunked information down into easy steps that can be put back together (not necessarily in the same order). This allows experts to identify meaningful patterns in the information and draw even further knowledge. It also makes it easier to identify these patterns if you can identify parts of them from predefined chunks.
+
+### 2.1.3. Deliberate Practice
+
+1. Clear intent and commitment - Make a goal, make a plan and stick to it.
+2. Engagement in Stretch Activities - Beyond your comfort zone and not yet sustainable.
+3. Close and Rigorous Monitoring - Have a coach, a video and a stopwatch.
+4. Generation of Specific Feedback - To know how you are doing and what you can do to improve.
+
+### 2.1.4. Surprise Practice
+
+It may not always be possible to schedule practice, this is true of things like speaking in front of large crowds. It is important to maek the most of opportunities that arise and there are things you can do to seek these opportunities out.
+
+## 2.2. Six Steps to Mastery
+
+These steps were developed by Max Landsberg after researching the Old Masters painters.
+
+The most important is Passion, then you also need Places, Prior Art, Productivity, Practice and Patrons.
+
+### 2.2.1. Places
+
+Travel can bring great benefits to ones experience. Go and see excellence in action, if you are a Developer go and visit Google. You can learn a lot from travel, find inspiration that you didn't anticipate and build a strong and international personal network.
+
+### 2.2.2. Prior Art
