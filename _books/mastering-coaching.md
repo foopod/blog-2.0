@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 title: Mastering Coaching
 date: 2017-11-27
 tags: []
