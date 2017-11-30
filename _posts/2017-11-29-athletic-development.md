@@ -11,13 +11,13 @@ I stumbled upon something called Athletic Development just a few weeks ago and i
 
 Before I start, there is guide for it availble <a href="https://www.athleticcoalition.com/docs/athlete-guide.pdf">here</a>.
 
-I have been working with Scrum for a number of years now. There are some bits that I love and some bits that I find difficult to convince people of if they have a fixed mindset. One of the things I like about Athletic Development is just how extreme it is in these areas, it helps to convey just how important certain aspects are.
+I have been working with Scrum for nearly 3 years now. It has been a pretty great experience, but there are some bits that people with a fixed mindset find difficult. One of the things I like about Athletic Development is just how extreme it is in these areas, it helps to convey just how important certain aspects are.
 
 If you can convince a team to try athletic development then I think it could offer several advantages...
 
 ### 1. Cross Skilled Teams.
 
-Moving from I-shaped to T-shaped is hard. In Scrum we have all the skills necessary in the team so that we can do the job, but sometimes you have a front end heavy sprint or you make a change that requires tons of regression testing. And so the skills workload becomes unbalanced, if your team is not ready and stuck in a fixed mindset this becomes a blocker. In a new Scrum Team this is escalated externally and may be handled with more resource, or the risk of the work being delayed is accepted. But if this was an Athletic Coalition then "No one works on anything alone" and "We don’t divide and assign tasks by skillset."
+Moving from I-shaped to T-shaped is hard. In Scrum we have all the skills necessary in the team so that we can do the job, but sometimes you have a front end heavy sprint or make a change that requires a lot of regression testing. This makes the workload unbalanced, if your team is not ready and stuck in a fixed mindset this becomes a blocker. In a new Scrum Team this is escalated externally and may be handled with more resource, or the risk of the work being delayed is accepted. But if this was an Athletic Coalition then "No one works on anything alone" and "We don’t divide and assign tasks by skillset."
 
 This is something that can help a new team cross skill and I wish this was explicitly part of Scrum. It also makes it easy for the whole team to feel commitment and ownership of the sprint, because they are all working on everything.
 
@@ -31,6 +31,6 @@ It is not like there is no Product Ownership. There is, but the whole team do it
 
 One of the parts of Scrum that is often overlooked is the purpose of a daily stand up. People get into the habit of sharing a progress update. But the real value of the daily scrum is as a team to inspect and adapt. Look at where you are and where you want to be at the end of the sprint and adapt what you are doing to suit. Athletic Development splits this into its own event at the end of the day, where the team essentially does a retrospective of the day. 
 
-Scrum doesn't mean that you are locked into a plan for 2 weeks, but it doesn't explicitly say that you aren't either. It does talk about setting a goal for the sprint (this should ideally be customer centric), the plan to get it done is probably going to change during the sprint. But the functionality we want to deliver for the customer is not likely to until after we build it and get feedback.
+Scrum doesn't mean that you are locked into a plan for 2 weeks, but it doesn't explicitly say that you aren't either. It does talk about setting a goal for the sprint (this should ideally be customer centric). The plan to achieve the goal is probably going to change during the sprint as you learn and do. But the functionality we want to deliver for the customer is not likely to until after we build it and get feedback.
 
 If you want to know more about Athletic Development or just have a chat, then jump into their <a href="https://join.slack.com/t/athleticdevelopment/shared_invite/enQtMjc0OTE5NDE2OTQ5LWEzZTI0NTlhNzk5ZThlOGY1NTQ2ZmM2NmMyYWI3ZTQxZjEwOTdkMjgyZTAyZWVlM2IwNTgxZGFjMTFlNzViZjg">Slack Channel</a> rather than commenting below.
