@@ -9,6 +9,8 @@ description: An alternative to Scrum. Athletic Development is a framework for hi
 
 I stumbled upon something called Athletic Development just a few weeks ago and it looks very cool.
 
+<img src="/public/images/Athletic.png"/>
+
 Before I start, there is guide for it availble <a href="https://www.athleticcoalition.com/docs/athlete-guide.pdf">here</a>.
 
 I have been working with Scrum for nearly 3 years now. It has been a pretty great experience, but there are some bits that people with a fixed mindset find difficult. One of the things I like about Athletic Development is just how extreme it is in these areas, it helps to convey just how important certain aspects are.
