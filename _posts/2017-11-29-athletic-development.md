@@ -37,6 +37,6 @@ Scrum mentions that the team can adjust the Sprint Backlog if needed, eg. add or
 
 ### Summary.
 
-Overall it looks pretty interesting. The one problem I have with it is that it looks intimidating. I don't know any teams that would volunteer to do this unless they do something like it already.
+Overall it looks pretty interesting. The one problem I have with it, is that it looks intimidating. I don't know any teams that would volunteer to do this unless they do something like it already.
 
 If you want to know more about Athletic Development or just have a chat, then jump into their <a href="https://join.slack.com/t/athleticdevelopment/shared_invite/enQtMjc0OTE5NDE2OTQ5LWEzZTI0NTlhNzk5ZThlOGY1NTQ2ZmM2NmMyYWI3ZTQxZjEwOTdkMjgyZTAyZWVlM2IwNTgxZGFjMTFlNzViZjg">Slack Channel</a> rather than commenting below.
