@@ -23,11 +23,11 @@ This is something that can help a new team cross skill and I wish this was expli
 
 Continuous learning is awesome.
 
-### 2. No more Product Owner
+### 2. No more Product Owner.
 
 It is not like there is no Product Ownership. There is, but the whole team do it. This takes the idea of ownership and empowerment much further than Scrum. It is important to mention though those skills still need to be in the team. You need stakeholder management, customer insights and market trend knowledge, among other things.
 
-### 3. Deliver value daily
+### 3. Deliver value daily.
 
 One of the parts of Scrum that is often overlooked is the purpose of a daily stand up. People get into the habit of sharing a progress update. But the real value of the daily scrum is as a team to inspect and adapt. Look at where you are and where you want to be at the end of the sprint and adapt what you are doing to suit. Athletic Development splits this into its own event at the end of the day, where the team essentially does a retrospective of the day. 
 
