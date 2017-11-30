@@ -29,8 +29,12 @@ It is not like there is no Product Ownership. There is, but the whole team do it
 
 ### 3. Deliver value daily.
 
-One of the parts of Scrum that is often overlooked is the purpose of a daily stand up. People get into the habit of sharing a progress update. But the real value of the daily scrum is as a team to inspect and adapt. Look at where you are and where you want to be at the end of the sprint and adapt what you are doing to suit. Athletic Development splits this into its own event at the end of the day, where the team essentially does a retrospective of the day. 
+One of the parts of Scrum that is often overlooked is the purpose of a daily stand up. People get into the habit of sharing a progress update. But the real value of the daily scrum is as a team to inspect and adapt. Look at where you are and where you want to be at the end of the sprint and adapt what your plan to suit. Athletic Development splits this into its own event at the end of the day. The team along with stakeholders look at the increment produced that day, feedback from this session be taken on immediately rather than in the next Sprint.
 
-Scrum doesn't mean that you are locked into a plan for 2 weeks, but it doesn't explicitly say that you aren't either. It does talk about setting a goal for the sprint (this should ideally be customer centric). The plan to achieve the goal is probably going to change during the sprint as you learn and do. But the functionality we want to deliver for the customer is not likely to until after we build it and get feedback.
+Scrum mentions that the team can adjust the Sprint Backlog if needed, eg. add or remove items. But it doesn't talk about how. When we start a sprint we set a goal and then pick the stories needed to achieve that goal. Even with very thorough task breakdown there will always be unforeseen changes to the work, the implementation changes as we progress and learn more during the sprint. So the plan may change, but the goal stays the same. But in Athletic Development there is an expectation set that the Sprint will change course as feedback is received.
+
+### Summary.
+
+Overall it looks pretty interesting. The one problem I have with it is that it looks intimidating. I don't know any teams that would volunteer to do this unless they do something like it already.
 
 If you want to know more about Athletic Development or just have a chat, then jump into their <a href="https://join.slack.com/t/athleticdevelopment/shared_invite/enQtMjc0OTE5NDE2OTQ5LWEzZTI0NTlhNzk5ZThlOGY1NTQ2ZmM2NmMyYWI3ZTQxZjEwOTdkMjgyZTAyZWVlM2IwNTgxZGFjMTFlNzViZjg">Slack Channel</a> rather than commenting below.
