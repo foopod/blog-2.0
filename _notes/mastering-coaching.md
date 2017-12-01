@@ -148,7 +148,7 @@ Others suggest that it is easier to get into a state of flow when you are invest
 
 ### 1.3.5. Tools for building positive relationships
 
-*Best Possible Selft* - Imagine and write about the best possible imaginary relationships that you can have are and what steps you might need to realise them.
+*Best Possible Self* - Imagine and write about the best possible imaginary relationships that you can have are and what steps you might need to realise them.
 
 *Gratitude Letter* - Write a letter to someone about something awesome that they did, describe your feelings of gratitude. Maybe even share it with them.
 
@@ -172,7 +172,7 @@ It is important to know that different people prefer individual steps and will l
 
 ### 1.5.2. Learning Styles
 
-Activists learn by doings. They like to be hands on and in the thick of it. The best ways for them to learn are brainstorming, problem-solving, group discussion, puzzles, competitions and role-play.
+Activists learn by doing. They like to be hands on and in the thick of it. The best ways for them to learn are brainstorming, problem-solving, group discussion, puzzles, competitions and role-play.
 
 Theorists are the opposite. They are systematic in learning the theory behind eveything. They prefer to analyse and synthesize. The best ways for them to learn are models, statistics, stories, quotes, background information and applying theories.
 
