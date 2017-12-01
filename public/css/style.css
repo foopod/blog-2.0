@@ -697,7 +697,7 @@ label{
 /** Dark Mode **/
 #darkmode-icon{
   font-size: 26px;
-  position: absolute;
+  position: fixed;
   top:3px;
   left:6px;
   z-index: 10;
@@ -713,7 +713,7 @@ label{
 }
 
 #darkmode-backdrop{
-  position: absolute;
+  position: fixed;
   top:0px;
   left:0px;
   width: 0; height: 0; border-top: 50px solid #111; border-right: 50px solid transparent;
