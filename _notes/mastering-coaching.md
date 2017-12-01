@@ -9,25 +9,25 @@ description: The aim of this book is to strengthen and stretch the horizontal ba
 
 # 0. Summary
 
-The aim of Mastering Coaching by Max Landsberg is to strengthen and stretch the horizontal bar of the Coaching T into areas I might have missed otherwise. It covers areas like sports, neuroscience, psychology and strategy.
+The aim of Mastering Coaching by Max Landsberg is to strengthen and stretch the horizontal bar of the Coaching T into areas I might have missed otherwise. It covers the science behind coaching, as well as different stategies and situations.
 
 # 1. Science
 
 ## 1.1. Neuroscience
 
-### 1.1.1. The Core of the Human brain
+### 1.1.1. The brain's priorities
 
-1. *Prioritise Survival* - Whether it be a T-Rex or a stressful moment in the office, if the brain senses danger we can have knee jerk reactions ('amygdala hijack') and often do things without reason.
+1. *Prioritise Survival* - Whether it be a T-Rex or a stressful moment in the office, if the brain senses danger we often react without thinking ('amygdala hijack').
 
-2. *Minimise Energy Use* - The brain uses a shit ton of energy (25% of it at rest), this is why we start to hardwire pathways in the brain to do certain tasks, these can also be called habits.
+2. *Minimise Energy Use* - The brain uses a shit ton of energy (25% at rest), this is why we start to hardwire pathways in the brain to do certain tasks, we call these habits.
 
-3. *Strengthen oft-used circuits* - This follows the same as above, the brain is constantly trying to create new patterns and optimise itself.
+3. *Strengthen oft-used circuits* - This follows the same as above, the brain is constantly trying to reinforce patterns and optimise itself.
 
-4. *Process one task at a time* - Contrary to popular human suck at multitasking, we just can't to it. We like things broken down into nice and small tasks and then tackle them sequentially. Things take longer and we make more mistakes when we are task switching.
+4. *Process one task at a time* - Contrary to popular belief humans suck at multitasking, we just can't to it. We like things broken down into nice and small tasks and then tackle them sequentially. Things take longer and we make more mistakes when we are start task switching.
 
 ### 1.1.2. Knowing how the brain operates and making strategies to deal with it.
 
-+ *Spotting Threats*
++ *Stress makes us more prone to reacting to conflict*
   + Avoid making crucial decisions when highly anxious.
   + Label the situation and reframe it in another way.
   + Socialise the situation, consult peers, get advice/help.
@@ -35,7 +35,7 @@ The aim of Mastering Coaching by Max Landsberg is to strengthen and stretch the 
   + Attend to Health.
 + *Make Schemas and correct errors*
   + Recognise that change takes time and effort.
-  + Don't keep on telling someone to act different (might trigger their amygdala).
+  + Don't keep on telling someone to act different.
   + Include, Don't alienate.
   + Be consistent and trustable.
   + Chunk effectively (mental maps).
@@ -68,16 +68,16 @@ The aim of Mastering Coaching by Max Landsberg is to strengthen and stretch the 
 
 ### 1.2.2. Visualizing Success
 
-Visualizing tasks and actions trigger the same parts of the brain as if we were preparing for and undertaking those tasks, thus helping to strengten connections and develop neural pathways.
+Visualizing things triggers the same parts of the brain as if we were preparing for and undertaking them, thus helping to strengthen connections and develop neural pathways.
 
 PETTLEP is a framework that helps with this. The more in depth the visualization the more effective it is.
 
-+ *Physical* - The physical aspects of doing actions. If we look at speaking examples include tone of voice, gestures and eye contact.
-+ *Environment* - Where the action will take place. Try going to the actual place, if not watch videos look at photos. Think about all the senses, not just sight, what can you hear? what smells are there here?
-+ *Task* - Imagine walking throught the task as completely as possible, beginning to end with as much detail as possible.
++ *Physical* - The physical aspects of doing actions. If we look at speaking this would include tone of voice, gestures and eye contact.
++ *Environment* - Where the action will take place. Try going to the actual place, if not watch videos or look at photos. Think about all the senses, not just sight, what can you hear? what smells are there?
++ *Task* - Imagine walking throught the task as completely as possible, beginning to end in as much detail as possible.
 + *Timing* - It is important to put the pace of the visualisation to the pace of the performance.
 + *Learning* - Update the imagery frequently, after mastering a low-key presentation, try visualizing doing it at the UN.
-+ *Emotion* - Match emotions to the journey of the task. Maybe you start out nervous, but get into the flow, have a good joke and laugh at it yourself, then the elatedness that comes with an applause.
++ *Emotion* - Match emotions to the journey of the task. Maybe you start out nervous, but get into the flow, have a good joke and show some humour, then the elation that comes with an applause.
 + *Perspective* - Try to look at the visualization from other angles, what is an audience member going to see.
 
 ### 1.2.3. Setting Goals
