@@ -245,6 +245,34 @@ The fox may know many things, probably too many for their own good. But the hedg
 
 **B**ig **H**airy **A**udacious **G**oal. When you combine what you love doing, with what you do really well and what pays well you will be happy. This is a venn diagram that helps with setting a massive goal for the future.
 
+### 2.3.3. Ikigai (A reason for being)
+
+The Japanese concept of Ikigai takes BHAG to the next level and includes something that the world needs as well.
+
+## 2.4. The Three Horizons
+
+### 2.4.1. The Concept
+
+While focus is important, the three horizons concept breaks goals into three steps. If you focus on the now, the soon and the future, you can great specific goals for each.
+
+- **Horizon 1** - Defend and exist the current core.
+- **Horizon 2** - Build momentum of new areas of growth, built out from core.
+- **Horizon 3** - Seed and tend to potential future growth.
+
+### 2.4.2. Examples
+
+Some common pitfalls.
+
+**Getting stale** - Dealing with the day to day, but not thinking about horizons 2 & 3. Very little resilience to change.
+
+**Burning Bridges** - Only focussing on 2 & 3, but not looking after the now. Hopefully Horizon 2 plans come into action before core falls apart.
+
+**Just dreaming** - Only thinking about Horizon 3, difficult to see how plans will follow-through. Due to no focus on the present, there is a good chance that things will get in the way of Horizon 3.
+
+## 2.5. Psychometrics
+
+Coming soon
+
 QUOTES
 
 "If I have seen farther than other men, it is because I have stood on the shoulders of giants" ~ Isaac Newton
