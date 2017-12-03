@@ -218,3 +218,33 @@ Travel can bring great benefits to ones experience. Go and see excellence in act
 ### 2.2.2. Prior Art
 
 Studying the work that came before you can be essential to learning new techniques and gaining inspiration. Seek role models in your area, learn about them and their techniques in detail.
+
+### 2.2.3. Patrons
+
+Having patrons allows you to constantly get feedback and improve. These could be customers, vendors, your boss and even personal relationships that can help.
+
+### 2.2.4. Productivity
+
+It is important to know how to scale, Raphael eventurally trained 50 people to work in large workshops for him. Delegation and thinking outside the box are key to expanding your reach.
+
+### 2.2.5. Practice
+
+See Deliberate Practice.
+
+### 2.2.6. Passion
+
+Passion is the key to being successful. Most people have trouble expressing what their passion is though. It is fascinating to know that passion isn't static, it is constantly evolving and quite often malleable. Some things you can do to help find your passion are creating a space for refection, looking at early interests (the things that intrigued you when you were young) or by looking at what makes you angry and looking at what has caused that.
+
+## 2.3. Hedgehog and BHAG
+
+### 2.3.1. Hedgehog
+
+The fox may know many things, probably too many for their own good. But the hedgehog knows only one thing. Many say that the secret to success is focus. Do one thing and to it well.
+
+### 2.3.2. BHAG
+
+**B**ig **H**airy **A**udacious **G**oal. When you combine what you love doing, with what you do really well and what pays well you will be happy. This is a venn diagram that helps with setting a massive goal for the future.
+
+QUOTES
+
+"If I have seen farther than other men, it is because I have stood on the shoulders of giants" ~ Isaac Newton
