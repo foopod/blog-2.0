@@ -216,3 +216,5 @@ The most important is Passion, then you also need Places, Prior Art, Productivit
 Travel can bring great benefits to ones experience. Go and see excellence in action, if you are a Developer go and visit Google. You can learn a lot from travel, find inspiration that you didn't anticipate and build a strong and international personal network.
 
 ### 2.2.2. Prior Art
+
+Studying the work that came before you can be essential to learning new techniques and gaining inspiration. Seek role models in your area, learn about them and their techniques in detail.
