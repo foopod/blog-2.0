@@ -188,11 +188,11 @@ What is expert performance in your area? Defining what it looks like is an excel
 
 ### 2.1.1 Schemata
 
-Map the domain. Experts have templates that they use to represent their domain. These can be used to rapidly discern observations and can easily be applied in a number of different situations. Schemata make it easy to respond to quickly in certain situations. Imagine firefighting or nursing, the response is instant. But obviously this has pros and cons.
+Map the domain. Experts have templates that they use to represent their domain. These can be used to rapidly discern observations and can easily be applied in a number of different situations. Schemata make it easy to respond to quickly in certain situations. Imagine firefighting or nursing, the response is instant.
 
 ### 2.1.2. Chunking
 
-To easier understand and store your domain you can break it down. It is really hard for humans to store large detailed processes and situations. It is found that experts have usually chunked information down into easy steps that can be put back together (not necessarily in the same order). This allows experts to identify meaningful patterns in the information and draw even further knowledge. It also makes it easier to identify these patterns if you can identify parts of them from predefined chunks.
+To easier understand and store your domain you can break it down. It is really hard for humans to store large detailed processes and situations. It is found that experts usually chunk information down into easy steps that can be put back together (not necessarily in the same order). This allows experts to identify meaningful patterns in the information and draw even further knowledge. It also makes it easier to identify these patterns if you can identify parts of them from predefined chunks.
 
 ### 2.1.3. Deliberate Practice
 
@@ -203,13 +203,11 @@ To easier understand and store your domain you can break it down. It is really h
 
 ### 2.1.4. Surprise Practice
 
-It may not always be possible to schedule practice, this is true of things like speaking in front of large crowds. It is important to maek the most of opportunities that arise and there are things you can do to seek these opportunities out.
+It may not always be possible to schedule practice, this is true of things like speaking in front of large crowds. It is important to maek the most of opportunities that arise and seek these opportunities out.
 
 ## 2.2. Six Steps to Mastery
 
-These steps were developed by Max Landsberg after researching the Old Masters painters.
-
-The most important is Passion, then you also need Places, Prior Art, Productivity, Practice and Patrons.
+These steps were developed by Max Landsberg after researching the Old Masters painters. The most important is Passion, then you also need Places, Prior Art, Productivity, Practice and Patrons.
 
 ### 2.2.1. Places
 
@@ -247,7 +245,7 @@ The fox may know many things, probably too many for their own good. But the hedg
 
 ### 2.3.3. Ikigai (A reason for being)
 
-The Japanese concept of Ikigai takes BHAG to the next level and includes something that the world needs as well.
+The Japanese concept of Ikigai takes BHAG to the next level by including the question, what does the world need?
 
 ## 2.4. The Three Horizons
 
@@ -271,7 +269,13 @@ Some common pitfalls.
 
 ## 2.5. Psychometrics
 
-Coming soon
+Psychometrics allow a deeper understanding of individuals. However it is important to recognise some of the limitations of them. They are invaluable when using them with other coaching tools. Have an understanding of the reliability and consistency of tests that are used. Try to understand what valid assumptions look like and explore convergent, discriminant, predictive and concurreny validity.
+
+# 3. Situations
+
+## 3.1. Role Transitions
+
+
 
 QUOTES
 
