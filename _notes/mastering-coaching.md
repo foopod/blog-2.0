@@ -275,7 +275,41 @@ Psychometrics allow a deeper understanding of individuals. However it is importa
 
 ## 3.1. Role Transitions
 
+### 3.1.1. Two Journeys
 
+When changing roles people often think about it froma process/technical stand point. Do I have the knowledge and skills that I need to do this role? The intellectual path is usually straight forward. The learning that you will need to do in this area is clear, goals are easier because the expectations in the area are usually communicated in advance.
+
+But what is often not talked about is the social/cultural transition that the role transition requires. Creating the right social bonds with the right people is often critical to success, especially in management roles. The requirements in this area are often far harder to spot until after you begin exploring.
+
+### 3.1.2. Preparing for the transition
+
+It helps to map out the exit of the existing role. What skills will be of use to you in the new role? And what do you need to do differently? Sketching a map of the upcoming intellectual and social journeys will also help you to understand the role better too. Make a plan for learning, the people that you will learn from and the wider team that you can look to for auxillary information.
+
+The plan should focus on learning in the beginning and move more towards taking action as time goes on.
+
+### 3.1.3. Getting started
+
++ Set up a personal support system. Who will you turn to for emotional support? Who will help you with technical learning?
++ Set expectations early, negotiate success with the Boss. What do they need from you? And what do you need from them to achieve this?
++ Establish credibility early, all eyes will be on you and your decision making process.
++ Build the team and the relationships
++ Continue to learn, but only what you deem beneficial. People will notice if you take to long to get up to speed or don't make an impression soon enough.
+
+## 3.2. 360° Feedback
+
+### 3.2.1. Before
+
+It is important to understand why the 360° feedback is taking place. Is it a company wide initiative? Has your client organised it themself? What kind of feedback are they looking for? What are they expecting to learn?
+
+Think about the expected quality of the feedback recieved. How is the information going to be perceived? Is it numerical? If it is, is it averaged? 
+
+Who is providing feedback?
+
+### 3.2.2. After
+
+Think about what information is going to be useful for development of the client. How should the feedback be structured? Having follow up sessions after the feedback is presented can generate deeper insights. Help the coachee to see how the feedback can be applied to their existing goals and commitments. How is confidentiality handled? Who gets to see the results? Do we know people that provided feedback?
+
+## 3.3. Board Effectiveness
 
 QUOTES
 
