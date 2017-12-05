@@ -305,7 +305,7 @@ Think about the expected quality of the feedback recieved. How is the informatio
 
 Who is providing feedback?
 
-### 3.2.2. After
+### 3.2.2. Afterwards
 
 Think about what information is going to be useful for development of the client. How should the feedback be structured? Having follow up sessions after the feedback is presented can generate deeper insights. Help the coachee to see how the feedback can be applied to their existing goals and commitments. How is confidentiality handled? Who gets to see the results? Do we know people that provided feedback?
 
