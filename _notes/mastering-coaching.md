@@ -369,4 +369,18 @@ Help them to get into the team and understand existing social norms and the role
 
 # 4. Awesome Quotes frome the book
 
-"If I have seen farther than other men, it is because I have stood on the shoulders of giants" **~ Isaac Newton**
+"If I have seen farther than other men, it is because I have stood on the shoulders of giants." **~ Isaac Newton**
+
+"The mind is not a vessel to be filled, but a fire to be kindled." **~ Plutarch**
+
+"Beware; for I am fearless, and therefore powerful." **~ Mary Shelley**
+
+"Sometimes you have to let go to see if there was anything worth holding on to." **~ Socrates**
+
+"What I have achieved by industry and practice, anyone else with a tolerable natural gift and ability can also achieve." **~ Johann Sebastian Bach**
+
+"An expert is a man who has made all the mistakes that can be made in a very narrow field." **~ Neils Bohr**
+
+"The man who chases two rabbits catches neither." **~ Confucius**
+
+"Honesty is the first chapter in the book of wisdom." **~ Thomas Jefferson**
