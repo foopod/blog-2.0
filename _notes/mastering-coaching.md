@@ -309,8 +309,64 @@ Who is providing feedback?
 
 Think about what information is going to be useful for development of the client. How should the feedback be structured? Having follow up sessions after the feedback is presented can generate deeper insights. Help the coachee to see how the feedback can be applied to their existing goals and commitments. How is confidentiality handled? Who gets to see the results? Do we know people that provided feedback?
 
-## 3.3. Board Effectiveness
+## 3.3. Coaching a board
 
-QUOTES
+1. Structure and composition
+2. Level of engagement with company issues (eg. risk, strategy, finance, operation, external relations,hr)
+3. Processes and Effectiveness of interactions (meetings, agenda content and dynamics)
+4. Peer Assessment (Strengths and development suggestions)
 
-"If I have seen farther than other men, it is because I have stood on the shoulders of giants" ~ Isaac Newton
+### 3.3.1. Knowing who your client is
+
++ Firstly engage with the chair and build a transparent and open relationship.
++ Learn the lay of the land, which directors hold the most power/say
++ What are the goals of the project? How specific?
++ Look at confidentiality, and the level of detail the chair will share with the board.
+
+### 3.3.2. Not just another management team
+
+The board may not interact directly outside of board meetings. Their time is very limited and so meetings and agendas will be incredibly efficient.
+
+### 3.3.3. Set a clear process
+
+Agree with the board on a focus, spend time with the board analysing and building ideas, look at external suggestions and report back to the board.
+
+### 3.3.4. Consider all options
+
++ Peer Reviews
++ External benchmarking
++ Annual Review of the CEO
++ Chair Succession
++ Self Evaluation of processes
+
+### 3.3.5. What kind of actions might come out of this?
+
++ An amended plan for director succession
++ Rolling calendar of issues to address
++ New structure for board papers
++ Refocused time allocation of board
++ Better understanding of talent pipeline
++ Targeted training and support
++ Amended roles for committee
+
+## 3.4. Coaching Gen Y
+
+Millenials are the most diverse generation so far, but when it comes to coaching it is similar to others.
+
++ Create a safe space for failing
++ Help them to set realistic but challenging goals
++ They are hungry to learn, support this
++ Provide feedback and ask for theirs
+
+### 3.4.1. Building Confidence
+
+Reassure them early and often. Helping them at the right time can go a long way. Take the time to explain things in detail and why certain elements might be critical. Give them praise in person, make it genuine. And then find opportunities to give them praise in public.
+
+### 3.4.2. Integration
+
+Help them to get into the team and understand existing social norms and the roles in the team. Use authority lightly, a culture of empowerment and autonomy helps to grow ideas and culture. Help them to understand the company as a whole, the internal informal networks and all the dotted lines.
+
+
+# 4. Awesome Quotes frome the book
+
+"If I have seen farther than other men, it is because I have stood on the shoulders of giants" **~ Isaac Newton**
