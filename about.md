@@ -25,14 +25,13 @@ I am Jono. Full-stack web developer, agile coach, game programmer, coffee addict
 
 <div id="skills">
     <ul>
-        <li>Java</li>
-        <li>HTML & CSS</li>
+        <li>Coaching</li>
+        <li>Web Development</li>
         <li>Javascript</li>
         <li>Learning</li>
-        <li>Oracle ATG Ecommerce</li>
+        <li>Mentoring</li>
         <li>Game Development</li>
-        <li>Unity3D</li>
-        <li>SQL</li>
+        <li>Devops</li>
         <li>Agile with Scrum</li>
         <li>Test Automation</li>
         <li>Continuous Integration</li>
