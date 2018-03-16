@@ -7,9 +7,7 @@ type: Book Summary
 description: The aim of this book is to strengthen and stretch the horizontal bar of the Coaching T into areas I might have missed otherwise.
 ---
 
-# 0. Summary
-
-The aim of Mastering Coaching by Max Landsberg is to strengthen and stretch the horizontal bar of the Coaching T into areas I might have missed otherwise. It covers the science behind coaching, as well as different stategies and situations.
+Author - Max Landsberg
 
 # 1. Science
 
