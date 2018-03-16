@@ -9,7 +9,13 @@ description: The aim of this book is to strengthen and stretch the horizontal ba
 
 Author - Max Landsberg
 
-# 1. Science
+<ol>
+  <li><a href="#science">Science</></li>
+  <li><a href="#strategies">Science</></li>
+  <li><a href="#situations">Science</></li>
+</ol>
+
+<h1 id="science"> 1. Science </h1>
 
 ## 1.1. Neuroscience
 
@@ -178,7 +184,7 @@ Pragmatists need to see how learning can be put into action. Abstract ideas boun
 
 Reflectors like to watch, they learn by observing. The best ways for them to learn are paired discussions, self-analysis, questionnaires, time out, observing activities, feedback from others, coaching and interviews.
 
-# 2. Strategies
+<h1 id="strategies"> 2. Strategies </h1>
 
 ## 2.1. Expert Performance
 
@@ -269,7 +275,7 @@ Some common pitfalls.
 
 Psychometrics allow a deeper understanding of individuals. However it is important to recognise some of the limitations of them. They are invaluable when using them with other coaching tools. Have an understanding of the reliability and consistency of tests that are used. Try to understand what valid assumptions look like and explore convergent, discriminant, predictive and concurreny validity.
 
-# 3. Situations
+<h1 id="situations"> 3. Situations </h1>
 
 ## 3.1. Role Transitions
 
