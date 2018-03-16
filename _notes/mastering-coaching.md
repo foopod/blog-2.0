@@ -11,8 +11,8 @@ Author - Max Landsberg
 
 <ol>
   <li><a href="#science">Science</></li>
-  <li><a href="#strategies">Science</></li>
-  <li><a href="#situations">Science</></li>
+  <li><a href="#strategies">Strategies</></li>
+  <li><a href="#situations">Situations</></li>
 </ol>
 
 <h1 id="science"> 1. Science </h1>
