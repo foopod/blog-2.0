@@ -9,11 +9,9 @@ description: The aim of this book is to strengthen and stretch the horizontal ba
 
 Author - Max Landsberg
 
-<ol>
-  <li><a href="#science">Science</a></li>
-  <li><a href="#strategies">Strategies</a></li>
-  <li><a href="#situations">Situations</a></li>
-</ol>
+1.<a href="#science">Science</a>
+2.<a href="#strategies">Strategies</a>
+3.<a href="#situations">Situations</a>
 
 <h1 id="science"> 1. Science </h1>
 
