@@ -752,3 +752,8 @@ label{
 #dark .challengeTitle{
   color:#111;
 }
+
+#dark .message {
+  color:#fff;
+  background-color: #717171;
+}
