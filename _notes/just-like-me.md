@@ -7,7 +7,7 @@ type: Empathy Exercise
 description: To build strong empathy in a group of people.
 ---
 
-* “Realizing that the other person is also just like me is the basis on which you can develop compassion, not only towards those around you but also towards your enemy. Normally, when we think about our enemy, we think about harming him. Instead, try to remember that the enemy is also a human being, just like me.” * --HHDL
+*"Realizing that the other person is also just like me is the basis on which you can develop compassion, not only towards those around you but also towards your enemy. Normally, when we think about our enemy, we think about harming him. Instead, try to remember that the enemy is also a human being, just like me."* __ --HHDL
 
 # Just Like Me
 Ask participants to sit in pairs and guide them with this script. You can also ask them to stand in two lines, facing each other; after completing the exercise with one partner, the line moves up by one and the exercise is repeated with another partner.  This increases the understanding that all others are “just like me.”  This practice can also be done alone, by bringing to mind a friend, a colleague, a neutral person, or a difficult person.  Or it can be done silently, when meeting someone new.  
