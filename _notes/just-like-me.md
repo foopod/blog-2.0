@@ -7,7 +7,7 @@ type: Empathy Exercise
 description: To build strong empathy in a group of people.
 ---
 
-*"Realizing that the other person is also just like me is the basis on which you can develop compassion, not only towards those around you but also towards your enemy. Normally, when we think about our enemy, we think about harming him. Instead, try to remember that the enemy is also a human being, just like me."* __ --HHDL
+*"Realizing that the other person is also just like me is the basis on which you can develop compassion, not only towards those around you but also towards your enemy. Normally, when we think about our enemy, we think about harming him. Instead, try to remember that the enemy is also a human being, just like me."* --HHDL
 
 # Just Like Me
 
@@ -56,7 +56,9 @@ I wish that this person have the strength, resources, and social support to navi
 I wish that this person be free from pain and suffering.
 
 I wish that this person be peaceful and happy.
-I wish that this person be loved.  
+
+I wish that this person be loved. 
+
 Because this person is a fellow human being, just like me.
 
 
