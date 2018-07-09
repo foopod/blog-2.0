@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-wide
 title: Photos
 description: I am learning about 35mm film photography, here are some photos I have taken...
 ---
@@ -7,31 +7,62 @@ description: I am learning about 35mm film photography, here are some photos I h
   Jono is learning about photography, here are some photos...
 </p>
 
-<a href="/public/images/photos/pier.jpeg"> <img src="/public/images/photos/pier.jpg" /></a>
-<br>
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
+<div class="grid">
+    
+    
+    <div class="grid-item"><img src="/public/images/photos/path.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/hole.jpeg"/></div>
+    
+    <div class="grid-item"><img src="/public/images/photos/construction.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/laser.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/lit-up.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/camera.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/athena.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/crown.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/car.jpeg" /></div>
+    <div class="grid-item"><img src="/public/images/photos/kiss.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/pier.jpeg" /></div>
+    <div class="grid-item"><img src="/public/images/photos/falls.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/jamie.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/lights.jpeg"/></div>
+    
+    <div class="grid-item"><img src="/public/images/photos/bus.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/reflection.jpeg"/></div>
+    <div class="grid-item"><img src="/public/images/photos/yoga.jpeg" /></div>
+    <div class="grid-item"><img src="/public/images/photos/fire.jpeg"/></div>
+</div>
+<script>
+    var elem = document.querySelector('.grid');
+    imagesLoaded( '.grid', function(){
+        console.log("meow");
+        var msnry = new Masonry( '.grid', {
+            itemSelector: '.grid-item',
+            percentPosition: true
+        });
+    });
+</script>
+
+<!--
+
 
 <a href="/public/images/photos/hole.jpeg"> <img src="/public/images/photos/hole.jpg" /></a>
-<br>
 
-<a href="/public/images/photos/car.jpeg"> <img src="/public/images/photos/car.jpg" /></a>
-<br>
+<a href="/public/images/photos/car.jpeg"> </a>
 
 <a href="/public/images/photos/path.jpeg"> <img src="/public/images/photos/path.jpg" /></a>
-<br>
 
 <a href="/public/images/photos/yoga.jpeg"> <img src="/public/images/photos/yoga.jpg" /></a>
-<br>
 
 <a href="/public/images/photos/bus.jpeg"/><img src="/public/images/photos/bus.jpg"/></a>
-<br>
 
 <a href="/public/images/photos/reflection.jpeg"> <img src="/public/images/photos/reflection.jpg" /></a>
-<br>
 
 <a href="/public/images/photos/camera.jpeg"> <img src="/public/images/photos/camera.jpg" /></a>
-<br>
 
 <a href="/public/images/photos/athena.jpeg"/><img src="/public/images/photos/athena.jpg" /></a>
-<br>
 
 <a href="/public/images/photos/crown.jpeg"/><img src="/public/images/photos/crown.jpg" /> </a>
+-->
