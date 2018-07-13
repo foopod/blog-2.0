@@ -786,3 +786,15 @@ label{
     margin-left:  auto;
     margin-right: auto;
   }
+
+.fa-search-plus{
+    color:white;
+    opacity:0;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.grid-item:hover .fa {
+  opacity: 1;
+}
