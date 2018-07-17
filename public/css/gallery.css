@@ -1,0 +1,103 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+a{
+   font-family: 'Open Sans', serif;
+}
+
+.grid-item { width: 100%; }
+
+@media screen and (min-width: 600px) {
+    .grid-item { width: 50%; }
+    
+}
+
+@media screen and (min-width: 900px) {
+    .grid-item { width: 33%; }
+    
+}
+
+.grid-item img {
+    display: block;
+    max-width: 98%;
+    margin: auto;
+    padding-top: 10px;
+  }
+
+ .wide-container {
+    margin-left:  auto;
+    margin-right: auto;
+  }
+
+.fa-download{
+    color:white;
+    opacity:0;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.grid-item:hover .fa {
+  opacity: 1;
+}
+
+.hero-item{
+    height:200px;
+    padding-left:1em;
+    padding-top:1em;
+    font-family: 'Open Sans', serif;
+}
+
+.hero-header{
+    font-size: 6vw;
+    color: #303030;
+    letter-spacing: -6px;
+    text-decoration:none;
+    padding-bottom:20px;
+}
