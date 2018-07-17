@@ -88,16 +88,23 @@ a{
 }
 
 .hero-item{
-    height:200px;
+/*    height:200px;*/
     padding-left:1em;
     padding-top:1em;
     font-family: 'Open Sans', serif;
+/*    border: 1px black solid;*/
+    margin: 10px;
 }
 
 .hero-header{
     font-size: 6vw;
-    color: #303030;
-    letter-spacing: -6px;
+    color: #aaadaf;
+    letter-spacing: -0.5vw;
     text-decoration:none;
     padding-bottom:20px;
+}
+
+body{
+    background-color: #f1f8fe;
+    color: #aaadaf;
 }
