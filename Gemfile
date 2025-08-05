@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+ruby "3.1.0"
 gem 'jekyll', '>=3.3.1'
 gem 'kramdown', '>=1.13.2'
 gem 'rouge', '>=1.11.1'
